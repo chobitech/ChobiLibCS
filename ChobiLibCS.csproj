@@ -4,6 +4,14 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+      <PackageId>ChobiLibCS</PackageId>
+      <Version>0.0.1</Version>
+      <Authors>chobitech</Authors>
+      <Company>chobitech</Company>
+      <Description>C# library for chobitech use</Description>
+      <PackageLicenseExpression>MIT</PackageLicenseExpression>
+      <RepositoryUrl>https://github.com/your-repo</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

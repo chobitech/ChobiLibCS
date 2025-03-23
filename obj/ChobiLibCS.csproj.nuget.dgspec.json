@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tad\\Documents\\vscode_project\\ChobiLibCS\\ChobiLibCS.csproj": {}
+    "/Volumes/DevEnv-SSD/DevProject/VS_Code/ChobiLibCS/ChobiLibCS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tad\\Documents\\vscode_project\\ChobiLibCS\\ChobiLibCS.csproj": {
-      "version": "1.0.0",
+    "/Volumes/DevEnv-SSD/DevProject/VS_Code/ChobiLibCS/ChobiLibCS.csproj": {
+      "version": "0.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tad\\Documents\\vscode_project\\ChobiLibCS\\ChobiLibCS.csproj",
+        "projectUniqueName": "/Volumes/DevEnv-SSD/DevProject/VS_Code/ChobiLibCS/ChobiLibCS.csproj",
         "projectName": "ChobiLibCS",
-        "projectPath": "C:\\Users\\tad\\Documents\\vscode_project\\ChobiLibCS\\ChobiLibCS.csproj",
-        "packagesPath": "C:\\Users\\tad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tad\\Documents\\vscode_project\\ChobiLibCS\\obj\\",
+        "projectPath": "/Volumes/DevEnv-SSD/DevProject/VS_Code/ChobiLibCS/ChobiLibCS.csproj",
+        "packagesPath": "/Users/kei/.nuget/packages/",
+        "outputPath": "/Volumes/DevEnv-SSD/DevProject/VS_Code/ChobiLibCS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kei/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,8 +37,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
