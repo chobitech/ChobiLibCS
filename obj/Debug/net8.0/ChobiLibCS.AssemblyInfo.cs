@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChobiLibCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+290746a5cc33e63ec87b66ae9847b2cb449d85df")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChobiLibCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChobiLibCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

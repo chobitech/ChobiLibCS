@@ -1,7 +1,5 @@
 ﻿namespace ChobiLib;
 
-using System;
-
 public static class ChobiLib
 {
 
