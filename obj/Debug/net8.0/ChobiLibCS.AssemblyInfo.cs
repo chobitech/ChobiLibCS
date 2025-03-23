@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("C# library for chobitech use")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+e9ac691ecb3976420d4e17012312d8669245655b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+603b1d367562dffd257ad1daa8824187e167263b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChobiLibCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChobiLibCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]
