@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ChobiLibCS</id>
+    <version>0.0.1</version>
+    <authors>chobitech</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>C# library for chobitech use</description>
+    <repository type="git" url="https://github.com/your-repo" commit="e9ac691ecb3976420d4e17012312d8669245655b" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Volumes/DevEnv-SSD/DevProject/VS_Code/ChobiLibCS/bin/Release/net8.0/ChobiLibCS.dll" target="lib/net8.0/ChobiLibCS.dll" />
+    <file src="/Volumes/DevEnv-SSD/DevProject/VS_Code/ChobiLibCS/README.md" target="/README.md" />
+  </files>
+</package>
