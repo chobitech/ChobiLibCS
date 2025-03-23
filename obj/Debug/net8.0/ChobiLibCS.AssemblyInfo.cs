@@ -12,9 +12,10 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("chobitech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("© 2025 chobitech. All rights reserved.")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("C# library for chobitech use")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+603b1d367562dffd257ad1daa8824187e167263b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+3a24fa8c57609cb5d28e8a0ac0097a77cc81ac8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChobiLibCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChobiLibCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]

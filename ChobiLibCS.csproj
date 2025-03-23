@@ -9,6 +9,7 @@
       <PackageReadmeFile>README.md</PackageReadmeFile>
       <Authors>chobitech</Authors>
       <Company>chobitech</Company>
+      <Copyright>© 2025 chobitech. All rights reserved.</Copyright>
       <Description>C# library for chobitech use</Description>
       <PackageLicenseExpression>MIT</PackageLicenseExpression>
       <RepositoryUrl>https://github.com/chobitech/ChobiLibCS</RepositoryUrl>

@@ -8,7 +8,8 @@
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <readme>README.md</readme>
     <description>C# library for chobitech use</description>
-    <repository type="git" url="https://github.com/chobitech/ChobiLibCS" commit="603b1d367562dffd257ad1daa8824187e167263b" />
+    <copyright>© 2025 chobitech. All rights reserved.</copyright>
+    <repository type="git" url="https://github.com/chobitech/ChobiLibCS" commit="3a24fa8c57609cb5d28e8a0ac0097a77cc81ac8f" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>
