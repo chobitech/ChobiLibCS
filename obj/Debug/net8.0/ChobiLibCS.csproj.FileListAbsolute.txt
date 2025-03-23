@@ -1,0 +1,4 @@
+C:\Users\tad\Documents\vscode_project\ChobiLibCS\obj\Debug\net8.0\ChobiLibCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tad\Documents\vscode_project\ChobiLibCS\obj\Debug\net8.0\ChobiLibCS.AssemblyInfoInputs.cache
+C:\Users\tad\Documents\vscode_project\ChobiLibCS\obj\Debug\net8.0\ChobiLibCS.AssemblyInfo.cs
+C:\Users\tad\Documents\vscode_project\ChobiLibCS\obj\Debug\net8.0\ChobiLibCS.csproj.CoreCompileInputs.cache
