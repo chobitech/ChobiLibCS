@@ -5,7 +5,7 @@
   },
   "projects": {
     "/Volumes/DevEnv-SSD/DevProject/VS_Code/ChobiLibCS/ChobiLibCS.csproj": {
-      "version": "0.0.1",
+      "version": "0.0.2",
       "restore": {
         "projectUniqueName": "/Volumes/DevEnv-SSD/DevProject/VS_Code/ChobiLibCS/ChobiLibCS.csproj",
         "projectName": "ChobiLibCS",
@@ -13,11 +13,14 @@
         "packagesPath": "/Users/kei/.nuget/packages/",
         "outputPath": "/Volumes/DevEnv-SSD/DevProject/VS_Code/ChobiLibCS/obj/",
         "projectStyle": "PackageReference",
+        "crossTargeting": true,
         "configFilePaths": [
           "/Users/kei/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net8.0",
+          "net9.0",
+          "netstandard2.1"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
@@ -26,6 +29,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+            "projectReferences": {}
+          },
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          },
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -61,6 +72,46 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        },
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        },
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
