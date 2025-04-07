@@ -46,8 +46,7 @@ public readonly struct FixedDecimal
         if (v1.Success)
         {
             var intPart = (v1.Length > 0) ? BigInteger.Parse(v1.Value) * intScale : BigInteger.Zero;
-            var fracLen = Math.Min(scaleDigits, v2.Length);
-            var fracStr = $"1{v2.Value[..fracLen].PadRight(scaleDigits, '0')}";
+            var fracStr = $"1{v2.Value.Truncate(scaleDigits).PadRight(scaleDigits, '0')}";
             var fracPart = BigInteger.Parse(fracStr);
             res = intPart + fracPart - intScale;
         }
