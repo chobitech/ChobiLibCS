@@ -1,7 +1,6 @@
-﻿namespace ChobiLib;
+﻿using System.Text;
 
-using System.Linq;
-using System.Text;
+namespace ChobiLib;
 
 public static class ChobiLib
 {
