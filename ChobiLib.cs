@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using System.Text.RegularExpressions;
 
 namespace ChobiLib;
 
@@ -157,4 +158,46 @@ public static class ChobiLib
 
     public static bool IsEmpty(this string s) => s.Length == 0;
     public static bool IsBlank(this string s) => s.TrimEnd(' ', '\r', '\n', '\t').Length == 0;
+
+
+    public static byte[] ConvertToByteArray(this string s, Encoding? encoding = null) => (encoding ?? Encoding.UTF8).GetBytes(s);
+    public static string ConvertToString(this byte[] data, Encoding? encoding = null) => (encoding ?? Encoding.UTF8).GetString(data);
+
+    public static byte[] ConvretFromBase64(this string base64) => Convert.FromBase64String(base64);
+    public static string ConvertToBase64String(this byte[] data) => Convert.ToBase64String(data);
+
+
+    public static string ToHexString(this byte[] data)
+    {
+        var sb = new StringBuilder();
+
+        foreach (var b in data)
+        {
+            sb.Append(b.ToString("X2"));
+        }
+
+        return sb.ToString();
+    }
+
+    private static readonly Regex _hexRegex = new(@"^(?:[0-9a-f]{2})+$", RegexOptions.IgnoreCase);
+
+    public static byte[] HexToBytes(this string hex)
+    {
+        var match = _hexRegex.Match(hex);
+
+        if (!match.Success)
+        {
+            throw new FormatException("The input is not hex string");
+        }
+
+        var res = new List<byte>();
+
+        for (var i = 0; i < hex.Length; i += 2)
+        {
+            var b = byte.Parse($"{hex[i]}{hex[i + 1]}", System.Globalization.NumberStyles.HexNumber);
+            res.Add(b);
+        }
+
+        return res.ToArray();
+    }
 }
