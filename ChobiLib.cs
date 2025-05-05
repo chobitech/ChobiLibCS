@@ -198,6 +198,6 @@ public static class ChobiLib
             res.Add(b);
         }
 
-        return res.ToArray();
+        return [.. res];
     }
 }

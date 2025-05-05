@@ -1,7 +1,7 @@
 using System.Security.Cryptography;
 using System.Text;
 
-namespace ChobiLib;
+namespace ChobiLib.Security;
 
 public static class ChobiAes256
 {
