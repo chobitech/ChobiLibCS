@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
       <PackageId>ChobiLibCS</PackageId>
-      <Version>0.0.5</Version>
+      <Version>0.1.2</Version>
       <PackageReadmeFile>README.md</PackageReadmeFile>
       <Authors>chobitech</Authors>
       <Company>chobitech</Company>
@@ -18,10 +18,6 @@
 
   <ItemGroup>
     <None Include="README.md" Pack="true" PackagePath="\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
 </Project>

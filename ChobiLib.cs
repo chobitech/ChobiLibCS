@@ -24,6 +24,8 @@ public static class ChobiLib
 
     public static int LastIndex<T>(this IEnumerable<T> list) => list.Count() - 1;
 
+    public static bool IsNotEmpty<T>(this IEnumerable<T> list) => list.Any();
+
 
     public static bool IsNotEmpty(this StringBuilder sb) => sb.Length > 0;
 
@@ -199,5 +201,38 @@ public static class ChobiLib
         }
 
         return [.. res];
+    }
+
+    /*
+    private static T InnerCircularAdd<T>(this T v, T addValue, T maxInclusive, T startValue) where T : System.Numerics.INumber<T>
+    {
+        var res = v + addValue;
+        if (res > maxInclusive)
+        {
+            res = startValue;
+        }
+        return res;
+    }
+    */
+
+
+    public static long CircularAdd(this long v, long addValue, long maxInclusive, long startValue = 0)
+    {
+        var res = v + addValue;
+        if (res > maxInclusive)
+        {
+            res = startValue;
+        }
+        return res;
+    }
+
+    public static int CircularAdd(this int v, int addValue, int maxInclusive, int startValue = 0)
+    {
+        var res = v + addValue;
+        if (res > maxInclusive)
+        {
+            res = startValue;
+        }
+        return res;
     }
 }
