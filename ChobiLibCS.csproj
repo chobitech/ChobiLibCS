@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
       <PackageId>ChobiLibCS</PackageId>
-      <Version>0.1.2</Version>
+      <Version>0.1.3</Version>
       <PackageReadmeFile>README.md</PackageReadmeFile>
       <Authors>chobitech</Authors>
       <Company>chobitech</Company>
