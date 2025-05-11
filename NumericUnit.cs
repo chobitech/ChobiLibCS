@@ -83,12 +83,36 @@ public class NumericUnit
         }
         else
         {
-            var iBase = GetBaseValue(digits);
+            digits--;
             var fBase = GetBaseValue(digits - 1);
-            var i = bi / iBase;
-            var f = (bi - i) / fBase;
+            var v = bi / fBase;
+            var i = v / 10;
+            var f = v % 10;
             return $"{i}.{f}e{digits}";
         }
+    }
+
+    public static string GetUnitString(BigInteger bi, bool addComma = false)
+    {
+        //--- en
+        var digits = CountDigits(bi);
+        var unit = "";
+        var fPart = BigInteger.Zero;
+
+        foreach (var uData in siUnitMap)
+        {
+            if (digits >= uData.Key)
+            {
+                var baseValue = GetBaseValue(uData.Key - 3);
+                var reBi = bi / baseValue;
+                fPart = reBi % siUnitBase;
+                bi = reBi / siUnitBase;
+                unit = uData.Value.Label;
+                break;
+            }
+        }
+
+        return $"{bi.ToString(addComma)}.{fPart}{unit}";
     }
 
 

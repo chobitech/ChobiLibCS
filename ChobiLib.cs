@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Numerics;
+using System.Text;
 using System.Text.RegularExpressions;
 
 namespace ChobiLib;
@@ -234,5 +235,11 @@ public static class ChobiLib
             res = startValue;
         }
         return res;
+    }
+
+
+    public static string ToString(this BigInteger bi, bool addComma)
+    {
+        return addComma ? bi.ToString("#,0") : bi.ToString();
     }
 }
