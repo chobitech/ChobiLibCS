@@ -246,4 +246,6 @@ public static class ChobiLib
     {
         return addComma ? bi.ToString("#,0") : bi.ToString();
     }
+
+    public static IEnumerable<T> Repeat<T>(this T t, int count) => Enumerable.Repeat(t, count);
 }
