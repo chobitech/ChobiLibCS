@@ -16,6 +16,15 @@ public static class ChobiLib
         return t;
     }
 
+    public static T AlsoIf<T>(this T t, bool isExecAction, Action<T> action)
+    {
+        if (isExecAction)
+        {
+            action(t);
+        }
+        return t;
+    }
+
     public static R Let<T, R>(this T t, Func<T, R> func) => func(t);
 
 
@@ -45,21 +54,6 @@ public static class ChobiLib
         return sb.ToString();
     }
 
-    /*
-    public static string JoinToString<T>(this IList<T> list, string joint = "", Func<T, string>? converter = null)
-    {
-        var sb = new StringBuilder();
-        foreach (var t in list)
-        {
-            if (joint != "" && sb.IsNotEmpty())
-            {
-                sb.Append(joint);
-            }
-            sb.Append(t);
-        }
-        return sb.ToString();
-    }
-    */
 
     public static T Replace<T>(this IList<T> list, int index, T value)
     {
