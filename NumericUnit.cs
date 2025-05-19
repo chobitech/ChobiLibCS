@@ -213,6 +213,8 @@ public class NumericUnit
 
     private static readonly SortedDictionary<int, UnitData> siUnitMap = new(intDescComparer)
     {
+        { 30, new("Q", "quetta") },
+        { 27, new("R", "ronna") },
         { 24, new("Y", "yotta") },
         { 21, new("Z", "zetta") },
         { 18, new("E", "exa") },

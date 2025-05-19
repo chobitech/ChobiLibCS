@@ -1,3 +1,5 @@
+
+/*
 using System.Numerics;
 using System.Text.RegularExpressions;
 
@@ -120,3 +122,4 @@ public readonly struct FixedDecimal
     public static FixedDecimal operator /(FixedDecimal fd, double d) => fd / new FixedDecimal(d, fd.ScaleDigits);
     public static FixedDecimal operator %(FixedDecimal fd, double d) => fd % new FixedDecimal(d, fd.ScaleDigits);
 }
+*/
