@@ -7,8 +7,8 @@ public sealed class HugeFixedDecimal
 {
     private static Exception GenerateInvalidNumberFormatException(string input) => throw new($"Invalid number format: \"{input}\"");
 
-    private static readonly Regex numberRegex = new(@"^(-?[0-9]+)(?:\.([0-9]+))?$");
-    private static readonly Regex scientificNumberRegex = new(@"(-?[0-9]+(?:\.[0-9]+)?)[eE]([0-9]+)$");
+    internal static readonly Regex numberRegex = new(@"^(-?[0-9]+)(?:\.([0-9]+))?$");
+    internal static readonly Regex scientificNumberRegex = new(@"(-?[0-9]+(?:\.[0-9]+)?)[eE]([0-9]+)$");
 
     private static (int, BigInteger)? ParseFromDoubleString(string doubleString)
     {
@@ -141,12 +141,13 @@ public sealed class HugeFixedDecimal
 
     public BigInteger RawFullValue { get; private set; }
 
-    public HugeFixedDecimal(BigInteger rawFullValue, int fractionalDigits = DefaultFractionalDigits)
+    public HugeFixedDecimal(BigInteger? rawFullValue = null, int fractionalDigits = DefaultFractionalDigits)
     {
         FractionalDigits = fractionalDigits;
         valuesHolder = GetInnerValuesHolder(fractionalDigits);
-        RawFullValue = rawFullValue;
+        RawFullValue = rawFullValue ?? BigInteger.Zero;
     }
+
 
     public HugeFixedDecimal(double d, int fractionalDigits = DefaultFractionalDigits)
     {

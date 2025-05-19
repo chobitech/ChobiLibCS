@@ -1,5 +1,7 @@
 namespace ChobiLib;
 
+#if NETSTANDARD2_0_OR_GREATER
+
 public readonly struct IntRange
 {
     public int MinValue { get; }
@@ -9,7 +11,7 @@ public readonly struct IntRange
     {
         if (minValue >= maxValue)
         {
-            throw new Exception("Invalid value range: minValue >= maxValue");
+            throw new Exception($"Invalid value range: minValue({minValue}) >= maxValue({maxValue})");
         }
 
         MinValue = minValue;
@@ -50,3 +52,14 @@ public readonly struct IntRange
     }
 }
 
+
+#elif NET8_0_OR_GREATER
+
+public class IntRange : NumericRange<int>
+{
+    public IntRange(int minValue, int maxValue) : base(minValue, maxValue)
+    {
+    }
+}
+
+#endif

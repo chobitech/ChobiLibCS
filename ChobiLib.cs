@@ -162,11 +162,11 @@ public static class ChobiLib
 
         else
         {
-            #if NETSTANDARD2_0
+#if NETSTANDARD2_0
                 return s.Substring(0, length);
-            #else
-                return s[..length];
-            #endif
+#else
+            return s[..length];
+#endif
         }
     }
 
@@ -242,4 +242,25 @@ public static class ChobiLib
     }
 
     public static IEnumerable<T> Repeat<T>(this T t, int count) => Enumerable.Repeat(t, count);
+
+
+    public static int[] GetIndices<T>(IEnumerable<T> values)
+    {
+        var indices = new int[values.Count()];
+        for (var i = 0; i < indices.Length; i++)
+        {
+            indices[i] = i;
+        }
+        return indices;
+    }
+
+    public static IntRange? GetIndexRange<T>(IEnumerable<T> values)
+    {
+        var lastIndex = values.LastIndex();
+        if (lastIndex < 0)
+        {
+            return null;
+        }
+        return new(0, lastIndex);
+    }
 }
