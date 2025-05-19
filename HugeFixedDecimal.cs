@@ -1,6 +1,5 @@
 using System.Numerics;
 using System.Text.RegularExpressions;
-using ChobiLib;
 
 namespace ChobiLib;
 
@@ -261,4 +260,18 @@ public sealed class HugeFixedDecimal
             return hash;
         }
     }
+
+
+
+    public static HugeFixedDecimal operator -(HugeFixedDecimal v) => new(-v.RawFullValue, v.FractionalDigits);
+    public static HugeFixedDecimal operator +(HugeFixedDecimal v1, HugeFixedDecimal v2) => v1.Add(v2);
+    public static HugeFixedDecimal operator -(HugeFixedDecimal v1, HugeFixedDecimal v2) => v1.Subtract(v2);
+    public static HugeFixedDecimal operator *(HugeFixedDecimal v1, HugeFixedDecimal v2) => v1.Multiply(v2);
+    public static HugeFixedDecimal operator /(HugeFixedDecimal v1, HugeFixedDecimal v2) => v1.Divide(v2);
+
+
+    public static HugeFixedDecimal operator +(HugeFixedDecimal v, double d) => v.Add(d);
+    public static HugeFixedDecimal operator -(HugeFixedDecimal v, double d) => v.Subtract(d);
+    public static HugeFixedDecimal operator *(HugeFixedDecimal v, double d) => v.Multiply(d);
+    public static HugeFixedDecimal operator /(HugeFixedDecimal v, double d) => v.Divide(d);
 }
