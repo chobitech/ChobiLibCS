@@ -2,6 +2,8 @@ using System.Numerics;
 using System.Text.RegularExpressions;
 using ChobiLib;
 
+namespace ChobiLib;
+
 public sealed class HugeFixedDecimal
 {
     private static Exception GenerateInvalidNumberFormatException(string input) => throw new($"Invalid number format: \"{input}\"");
