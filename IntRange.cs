@@ -1,6 +1,6 @@
 namespace ChobiLib;
 
-#if NETSTANDARD2_0_OR_GREATER
+#if NETSTANDARD2_0 || NETSTANDARD2_1
 
 public readonly struct IntRange
 {
@@ -53,7 +53,7 @@ public readonly struct IntRange
 }
 
 
-#elif NET8_0_OR_GREATER
+#elif NET7_0_OR_GREATER
 
 public class IntRange : NumericRange<int>
 {
