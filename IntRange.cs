@@ -1,4 +1,4 @@
-namespace ChobiLib;
+namespace Chobitech;
 
 #if NETSTANDARD2_0 || NETSTANDARD2_1
 

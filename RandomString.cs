@@ -1,4 +1,4 @@
-namespace ChobiLib;
+namespace Chobitech;
 
 public class RandomString(IList<string> seeds, Random? random = null) : Randomize<string>([.. seeds], random)
 {

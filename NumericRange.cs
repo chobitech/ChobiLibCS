@@ -2,7 +2,7 @@
 
 using System.Numerics;
 
-namespace ChobiLib;
+namespace Chobitech;
 
 public class NumericRange<T> where T : INumber<T>
 {

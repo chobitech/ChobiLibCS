@@ -1,9 +1,7 @@
 using System.Numerics;
 using System.Text;
 
-namespace ChobiLib;
-
-
+namespace Chobitech;
 
 public static class ChobiBigIntegerExtensions
 {

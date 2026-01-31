@@ -1,3 +1,5 @@
+namespace Chobitech;
+
 public enum RangeCompareResult
 {
     BelowMin,

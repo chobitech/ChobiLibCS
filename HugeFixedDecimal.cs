@@ -1,7 +1,7 @@
 using System.Numerics;
 using System.Text.RegularExpressions;
 
-namespace ChobiLib;
+namespace Chobitech;
 
 public sealed class HugeFixedDecimal
 {

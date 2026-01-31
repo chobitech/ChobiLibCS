@@ -1,4 +1,4 @@
-namespace ChobiLib;
+namespace Chobitech;
 
 public enum JapaneseEraName
 {

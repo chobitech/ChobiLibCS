@@ -1,6 +1,6 @@
 using System.Text;
 
-namespace ChobiLib;
+namespace Chobitech;
 
 public static class ListAndArrayUtils
 {

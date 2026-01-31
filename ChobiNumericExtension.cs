@@ -1,6 +1,6 @@
 using System.Numerics;
 
-namespace ChobiLib;
+namespace Chobitech;
 
 public static class ChobiNumericExtension
 {
