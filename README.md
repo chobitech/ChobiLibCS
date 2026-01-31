@@ -13,4 +13,4 @@ It contains engine-agnostic logic to ensure high performance and reusability acr
 - **Support**: Limited. Please use at your own risk.
 
 ## License
-MIT License - see [LICENSE](LICENSE) for details.
+MIT License - see [LICENSE.md](LICENSE) for details.
