@@ -5,7 +5,7 @@
 ChobiLibCS is a collection of pure C# utilities and core logic for chobitech's projects.
 
 ## Overview
-This library is primarily designed for internal use within chobitech's libraries (e.g., Unity package).
+This library is primarily designed for internal use within chobitech's applications or libraries (e.g., Unity package).
 It contains engine-agnostic logic to ensure high performance and reusability across different environments.
 
 ## Status
