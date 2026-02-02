@@ -45,7 +45,7 @@
       "_appName": "ChobiLibCS",
       "_appTitle": "ChobiLibCS",
       "_enableSearch": true,
-      "pdf": true
+      "_disableContribution": true
     }
   }
 }
