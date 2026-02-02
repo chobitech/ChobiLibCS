@@ -21,6 +21,16 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": ".nojekyll",
+      "output": {
+        "resource": {
+          "relative_path": ".nojekyll"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "ManagedReference",
       "source_relative_path": "api/Chobitech.ChobiBigIntegerExtensions.yml",
       "output": {
