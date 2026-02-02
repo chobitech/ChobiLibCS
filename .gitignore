@@ -10,6 +10,11 @@ packages/
 **/.DS_Store
 .vscode/
 
+**/Documents/_site/
+**/Documents/api/
+**/Documents/docs/
+**/Documents/obj/
+
 
 # dotenv files
 .env
