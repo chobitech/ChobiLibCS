@@ -1,0 +1,415 @@
+{
+  "source_base_path": "C:/Projects/dotnet/ChobiLibCS/Documents",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "LICENSE.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ChobiBigIntegerExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ChobiBigIntegerExtensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ChobiBigIntegerExtensions",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ChobiEnumHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ChobiEnumHelper.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ChobiEnumHelper",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ChobiGenericsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ChobiGenericsExtensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ChobiGenericsExtensions",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ChobiHexExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ChobiHexExtension.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ChobiHexExtension",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ChobiLib.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ChobiLib.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ChobiLib",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ChobiNumericExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ChobiNumericExtension.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ChobiNumericExtension",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ChobiStringExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ChobiStringExtension.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ChobiStringExtension",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.HugeFixedDecimal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.HugeFixedDecimal.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.HugeFixedDecimal",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.IntRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.IntRange.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.IntRange",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.JapaneseEra.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.JapaneseEra.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.JapaneseEra",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.JapaneseEraData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.JapaneseEraData.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.JapaneseEraData",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.JapaneseEraName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.JapaneseEraName.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.JapaneseEraName",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ListAndArrayUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ListAndArrayUtils.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ListAndArrayUtils",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.NumericRange-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.NumericRange-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.NumericRange<T>",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.NumericUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.NumericUnit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.NumericUnit",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.RandomString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.RandomString.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.RandomString",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.Randomize-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.Randomize-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.Randomize<T>",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.RangeCompareResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.RangeCompareResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.RangeCompareResult",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.Security.ChobiAES.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.Security.ChobiAES.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.Security.ChobiAES",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.Security.ChobiHash.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.Security.ChobiHash.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.Security.ChobiHash",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.Security.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.Security.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.Security",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ValueRange-1.RangeCompareResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ValueRange-1.RangeCompareResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ValueRange<T>.RangeCompareResult",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ValueRange-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ValueRange-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ValueRange<T>",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.ValueRangeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.ValueRangeExtensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech.ValueRangeExtensions",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Chobitech.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Chobitech.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Chobitech",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

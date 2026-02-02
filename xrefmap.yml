@@ -1,0 +1,2313 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Chobitech
+  name: Chobitech
+  href: api/Chobitech.html
+  commentId: N:Chobitech
+  fullName: Chobitech
+  nameWithType: Chobitech
+- uid: Chobitech.ChobiBigIntegerExtensions
+  name: ChobiBigIntegerExtensions
+  href: api/Chobitech.ChobiBigIntegerExtensions.html
+  commentId: T:Chobitech.ChobiBigIntegerExtensions
+  fullName: Chobitech.ChobiBigIntegerExtensions
+  nameWithType: ChobiBigIntegerExtensions
+- uid: Chobitech.ChobiBigIntegerExtensions.Ceil(System.Numerics.BigInteger,System.Int32)
+  name: Ceil(BigInteger, int)
+  href: api/Chobitech.ChobiBigIntegerExtensions.html#Chobitech_ChobiBigIntegerExtensions_Ceil_System_Numerics_BigInteger_System_Int32_
+  commentId: M:Chobitech.ChobiBigIntegerExtensions.Ceil(System.Numerics.BigInteger,System.Int32)
+  name.vb: Ceil(BigInteger, Integer)
+  fullName: Chobitech.ChobiBigIntegerExtensions.Ceil(System.Numerics.BigInteger, int)
+  fullName.vb: Chobitech.ChobiBigIntegerExtensions.Ceil(System.Numerics.BigInteger, Integer)
+  nameWithType: ChobiBigIntegerExtensions.Ceil(BigInteger, int)
+  nameWithType.vb: ChobiBigIntegerExtensions.Ceil(BigInteger, Integer)
+- uid: Chobitech.ChobiBigIntegerExtensions.Ceil*
+  name: Ceil
+  href: api/Chobitech.ChobiBigIntegerExtensions.html#Chobitech_ChobiBigIntegerExtensions_Ceil_
+  commentId: Overload:Chobitech.ChobiBigIntegerExtensions.Ceil
+  isSpec: "True"
+  fullName: Chobitech.ChobiBigIntegerExtensions.Ceil
+  nameWithType: ChobiBigIntegerExtensions.Ceil
+- uid: Chobitech.ChobiBigIntegerExtensions.Floor(System.Numerics.BigInteger,System.Int32)
+  name: Floor(BigInteger, int)
+  href: api/Chobitech.ChobiBigIntegerExtensions.html#Chobitech_ChobiBigIntegerExtensions_Floor_System_Numerics_BigInteger_System_Int32_
+  commentId: M:Chobitech.ChobiBigIntegerExtensions.Floor(System.Numerics.BigInteger,System.Int32)
+  name.vb: Floor(BigInteger, Integer)
+  fullName: Chobitech.ChobiBigIntegerExtensions.Floor(System.Numerics.BigInteger, int)
+  fullName.vb: Chobitech.ChobiBigIntegerExtensions.Floor(System.Numerics.BigInteger, Integer)
+  nameWithType: ChobiBigIntegerExtensions.Floor(BigInteger, int)
+  nameWithType.vb: ChobiBigIntegerExtensions.Floor(BigInteger, Integer)
+- uid: Chobitech.ChobiBigIntegerExtensions.Floor*
+  name: Floor
+  href: api/Chobitech.ChobiBigIntegerExtensions.html#Chobitech_ChobiBigIntegerExtensions_Floor_
+  commentId: Overload:Chobitech.ChobiBigIntegerExtensions.Floor
+  isSpec: "True"
+  fullName: Chobitech.ChobiBigIntegerExtensions.Floor
+  nameWithType: ChobiBigIntegerExtensions.Floor
+- uid: Chobitech.ChobiBigIntegerExtensions.Round(System.Numerics.BigInteger,System.Int32)
+  name: Round(BigInteger, int)
+  href: api/Chobitech.ChobiBigIntegerExtensions.html#Chobitech_ChobiBigIntegerExtensions_Round_System_Numerics_BigInteger_System_Int32_
+  commentId: M:Chobitech.ChobiBigIntegerExtensions.Round(System.Numerics.BigInteger,System.Int32)
+  name.vb: Round(BigInteger, Integer)
+  fullName: Chobitech.ChobiBigIntegerExtensions.Round(System.Numerics.BigInteger, int)
+  fullName.vb: Chobitech.ChobiBigIntegerExtensions.Round(System.Numerics.BigInteger, Integer)
+  nameWithType: ChobiBigIntegerExtensions.Round(BigInteger, int)
+  nameWithType.vb: ChobiBigIntegerExtensions.Round(BigInteger, Integer)
+- uid: Chobitech.ChobiBigIntegerExtensions.Round*
+  name: Round
+  href: api/Chobitech.ChobiBigIntegerExtensions.html#Chobitech_ChobiBigIntegerExtensions_Round_
+  commentId: Overload:Chobitech.ChobiBigIntegerExtensions.Round
+  isSpec: "True"
+  fullName: Chobitech.ChobiBigIntegerExtensions.Round
+  nameWithType: ChobiBigIntegerExtensions.Round
+- uid: Chobitech.ChobiEnumHelper
+  name: ChobiEnumHelper
+  href: api/Chobitech.ChobiEnumHelper.html
+  commentId: T:Chobitech.ChobiEnumHelper
+  fullName: Chobitech.ChobiEnumHelper
+  nameWithType: ChobiEnumHelper
+- uid: Chobitech.ChobiEnumHelper.GetEnumValues*
+  name: GetEnumValues
+  href: api/Chobitech.ChobiEnumHelper.html#Chobitech_ChobiEnumHelper_GetEnumValues_
+  commentId: Overload:Chobitech.ChobiEnumHelper.GetEnumValues
+  isSpec: "True"
+  fullName: Chobitech.ChobiEnumHelper.GetEnumValues
+  nameWithType: ChobiEnumHelper.GetEnumValues
+- uid: Chobitech.ChobiEnumHelper.GetEnumValues``1(System.Func{``0,System.Boolean})
+  name: GetEnumValues<T>(Func<T, bool>?)
+  href: api/Chobitech.ChobiEnumHelper.html#Chobitech_ChobiEnumHelper_GetEnumValues__1_System_Func___0_System_Boolean__
+  commentId: M:Chobitech.ChobiEnumHelper.GetEnumValues``1(System.Func{``0,System.Boolean})
+  name.vb: GetEnumValues(Of T)(Func(Of T, Boolean))
+  fullName: Chobitech.ChobiEnumHelper.GetEnumValues<T>(System.Func<T, bool>?)
+  fullName.vb: Chobitech.ChobiEnumHelper.GetEnumValues(Of T)(System.Func(Of T, Boolean))
+  nameWithType: ChobiEnumHelper.GetEnumValues<T>(Func<T, bool>?)
+  nameWithType.vb: ChobiEnumHelper.GetEnumValues(Of T)(Func(Of T, Boolean))
+- uid: Chobitech.ChobiGenericsExtensions
+  name: ChobiGenericsExtensions
+  href: api/Chobitech.ChobiGenericsExtensions.html
+  commentId: T:Chobitech.ChobiGenericsExtensions
+  fullName: Chobitech.ChobiGenericsExtensions
+  nameWithType: ChobiGenericsExtensions
+- uid: Chobitech.ChobiGenericsExtensions.IsDefault*
+  name: IsDefault
+  href: api/Chobitech.ChobiGenericsExtensions.html#Chobitech_ChobiGenericsExtensions_IsDefault_
+  commentId: Overload:Chobitech.ChobiGenericsExtensions.IsDefault
+  isSpec: "True"
+  fullName: Chobitech.ChobiGenericsExtensions.IsDefault
+  nameWithType: ChobiGenericsExtensions.IsDefault
+- uid: Chobitech.ChobiGenericsExtensions.IsDefault``1(``0)
+  name: IsDefault<T>(T)
+  href: api/Chobitech.ChobiGenericsExtensions.html#Chobitech_ChobiGenericsExtensions_IsDefault__1___0_
+  commentId: M:Chobitech.ChobiGenericsExtensions.IsDefault``1(``0)
+  name.vb: IsDefault(Of T)(T)
+  fullName: Chobitech.ChobiGenericsExtensions.IsDefault<T>(T)
+  fullName.vb: Chobitech.ChobiGenericsExtensions.IsDefault(Of T)(T)
+  nameWithType: ChobiGenericsExtensions.IsDefault<T>(T)
+  nameWithType.vb: ChobiGenericsExtensions.IsDefault(Of T)(T)
+- uid: Chobitech.ChobiHexExtension
+  name: ChobiHexExtension
+  href: api/Chobitech.ChobiHexExtension.html
+  commentId: T:Chobitech.ChobiHexExtension
+  fullName: Chobitech.ChobiHexExtension
+  nameWithType: ChobiHexExtension
+- uid: Chobitech.ChobiHexExtension.HexToBytes(System.String)
+  name: HexToBytes(string)
+  href: api/Chobitech.ChobiHexExtension.html#Chobitech_ChobiHexExtension_HexToBytes_System_String_
+  commentId: M:Chobitech.ChobiHexExtension.HexToBytes(System.String)
+  name.vb: HexToBytes(String)
+  fullName: Chobitech.ChobiHexExtension.HexToBytes(string)
+  fullName.vb: Chobitech.ChobiHexExtension.HexToBytes(String)
+  nameWithType: ChobiHexExtension.HexToBytes(string)
+  nameWithType.vb: ChobiHexExtension.HexToBytes(String)
+- uid: Chobitech.ChobiHexExtension.HexToBytes*
+  name: HexToBytes
+  href: api/Chobitech.ChobiHexExtension.html#Chobitech_ChobiHexExtension_HexToBytes_
+  commentId: Overload:Chobitech.ChobiHexExtension.HexToBytes
+  isSpec: "True"
+  fullName: Chobitech.ChobiHexExtension.HexToBytes
+  nameWithType: ChobiHexExtension.HexToBytes
+- uid: Chobitech.ChobiHexExtension.ToHexString(System.Byte[])
+  name: ToHexString(byte[])
+  href: api/Chobitech.ChobiHexExtension.html#Chobitech_ChobiHexExtension_ToHexString_System_Byte___
+  commentId: M:Chobitech.ChobiHexExtension.ToHexString(System.Byte[])
+  name.vb: ToHexString(Byte())
+  fullName: Chobitech.ChobiHexExtension.ToHexString(byte[])
+  fullName.vb: Chobitech.ChobiHexExtension.ToHexString(Byte())
+  nameWithType: ChobiHexExtension.ToHexString(byte[])
+  nameWithType.vb: ChobiHexExtension.ToHexString(Byte())
+- uid: Chobitech.ChobiHexExtension.ToHexString*
+  name: ToHexString
+  href: api/Chobitech.ChobiHexExtension.html#Chobitech_ChobiHexExtension_ToHexString_
+  commentId: Overload:Chobitech.ChobiHexExtension.ToHexString
+  isSpec: "True"
+  fullName: Chobitech.ChobiHexExtension.ToHexString
+  nameWithType: ChobiHexExtension.ToHexString
+- uid: Chobitech.ChobiLib
+  name: ChobiLib
+  href: api/Chobitech.ChobiLib.html
+  commentId: T:Chobitech.ChobiLib
+  fullName: Chobitech.ChobiLib
+  nameWithType: ChobiLib
+- uid: Chobitech.ChobiLib.Also*
+  name: Also
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_Also_
+  commentId: Overload:Chobitech.ChobiLib.Also
+  isSpec: "True"
+  fullName: Chobitech.ChobiLib.Also
+  nameWithType: ChobiLib.Also
+- uid: Chobitech.ChobiLib.AlsoIf*
+  name: AlsoIf
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_AlsoIf_
+  commentId: Overload:Chobitech.ChobiLib.AlsoIf
+  isSpec: "True"
+  fullName: Chobitech.ChobiLib.AlsoIf
+  nameWithType: ChobiLib.AlsoIf
+- uid: Chobitech.ChobiLib.AlsoIf``1(``0,System.Boolean,System.Action{``0})
+  name: AlsoIf<T>(T, bool, Action<T>)
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_AlsoIf__1___0_System_Boolean_System_Action___0__
+  commentId: M:Chobitech.ChobiLib.AlsoIf``1(``0,System.Boolean,System.Action{``0})
+  name.vb: AlsoIf(Of T)(T, Boolean, Action(Of T))
+  fullName: Chobitech.ChobiLib.AlsoIf<T>(T, bool, System.Action<T>)
+  fullName.vb: Chobitech.ChobiLib.AlsoIf(Of T)(T, Boolean, System.Action(Of T))
+  nameWithType: ChobiLib.AlsoIf<T>(T, bool, Action<T>)
+  nameWithType.vb: ChobiLib.AlsoIf(Of T)(T, Boolean, Action(Of T))
+- uid: Chobitech.ChobiLib.Also``1(``0,System.Action{``0})
+  name: Also<T>(T, Action<T>)
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_Also__1___0_System_Action___0__
+  commentId: M:Chobitech.ChobiLib.Also``1(``0,System.Action{``0})
+  name.vb: Also(Of T)(T, Action(Of T))
+  fullName: Chobitech.ChobiLib.Also<T>(T, System.Action<T>)
+  fullName.vb: Chobitech.ChobiLib.Also(Of T)(T, System.Action(Of T))
+  nameWithType: ChobiLib.Also<T>(T, Action<T>)
+  nameWithType.vb: ChobiLib.Also(Of T)(T, Action(Of T))
+- uid: Chobitech.ChobiLib.GenerateRandomBytes(System.Int32)
+  name: GenerateRandomBytes(int)
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_GenerateRandomBytes_System_Int32_
+  commentId: M:Chobitech.ChobiLib.GenerateRandomBytes(System.Int32)
+  name.vb: GenerateRandomBytes(Integer)
+  fullName: Chobitech.ChobiLib.GenerateRandomBytes(int)
+  fullName.vb: Chobitech.ChobiLib.GenerateRandomBytes(Integer)
+  nameWithType: ChobiLib.GenerateRandomBytes(int)
+  nameWithType.vb: ChobiLib.GenerateRandomBytes(Integer)
+- uid: Chobitech.ChobiLib.GenerateRandomBytes*
+  name: GenerateRandomBytes
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_GenerateRandomBytes_
+  commentId: Overload:Chobitech.ChobiLib.GenerateRandomBytes
+  isSpec: "True"
+  fullName: Chobitech.ChobiLib.GenerateRandomBytes
+  nameWithType: ChobiLib.GenerateRandomBytes
+- uid: Chobitech.ChobiLib.Let*
+  name: Let
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_Let_
+  commentId: Overload:Chobitech.ChobiLib.Let
+  isSpec: "True"
+  fullName: Chobitech.ChobiLib.Let
+  nameWithType: ChobiLib.Let
+- uid: Chobitech.ChobiLib.Let``2(``0,System.Func{``0,``1})
+  name: Let<T, R>(T, Func<T, R>)
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_Let__2___0_System_Func___0___1__
+  commentId: M:Chobitech.ChobiLib.Let``2(``0,System.Func{``0,``1})
+  name.vb: Let(Of T, R)(T, Func(Of T, R))
+  fullName: Chobitech.ChobiLib.Let<T, R>(T, System.Func<T, R>)
+  fullName.vb: Chobitech.ChobiLib.Let(Of T, R)(T, System.Func(Of T, R))
+  nameWithType: ChobiLib.Let<T, R>(T, Func<T, R>)
+  nameWithType.vb: ChobiLib.Let(Of T, R)(T, Func(Of T, R))
+- uid: Chobitech.ChobiLib.PI2
+  name: PI2
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_PI2
+  commentId: F:Chobitech.ChobiLib.PI2
+  fullName: Chobitech.ChobiLib.PI2
+  nameWithType: ChobiLib.PI2
+- uid: Chobitech.ChobiLib.Repeat*
+  name: Repeat
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_Repeat_
+  commentId: Overload:Chobitech.ChobiLib.Repeat
+  isSpec: "True"
+  fullName: Chobitech.ChobiLib.Repeat
+  nameWithType: ChobiLib.Repeat
+- uid: Chobitech.ChobiLib.Repeat``1(``0,System.Int32)
+  name: Repeat<T>(T, int)
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_Repeat__1___0_System_Int32_
+  commentId: M:Chobitech.ChobiLib.Repeat``1(``0,System.Int32)
+  name.vb: Repeat(Of T)(T, Integer)
+  fullName: Chobitech.ChobiLib.Repeat<T>(T, int)
+  fullName.vb: Chobitech.ChobiLib.Repeat(Of T)(T, Integer)
+  nameWithType: ChobiLib.Repeat<T>(T, int)
+  nameWithType.vb: ChobiLib.Repeat(Of T)(T, Integer)
+- uid: Chobitech.ChobiLib.SharedRandomNumberGenerator
+  name: SharedRandomNumberGenerator
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_SharedRandomNumberGenerator
+  commentId: P:Chobitech.ChobiLib.SharedRandomNumberGenerator
+  fullName: Chobitech.ChobiLib.SharedRandomNumberGenerator
+  nameWithType: ChobiLib.SharedRandomNumberGenerator
+- uid: Chobitech.ChobiLib.SharedRandomNumberGenerator*
+  name: SharedRandomNumberGenerator
+  href: api/Chobitech.ChobiLib.html#Chobitech_ChobiLib_SharedRandomNumberGenerator_
+  commentId: Overload:Chobitech.ChobiLib.SharedRandomNumberGenerator
+  isSpec: "True"
+  fullName: Chobitech.ChobiLib.SharedRandomNumberGenerator
+  nameWithType: ChobiLib.SharedRandomNumberGenerator
+- uid: Chobitech.ChobiNumericExtension
+  name: ChobiNumericExtension
+  href: api/Chobitech.ChobiNumericExtension.html
+  commentId: T:Chobitech.ChobiNumericExtension
+  fullName: Chobitech.ChobiNumericExtension
+  nameWithType: ChobiNumericExtension
+- uid: Chobitech.ChobiNumericExtension.CircularAdd(System.Int32,System.Int32,System.Int32,System.Int32)
+  name: CircularAdd(int, int, int, int)
+  href: api/Chobitech.ChobiNumericExtension.html#Chobitech_ChobiNumericExtension_CircularAdd_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:Chobitech.ChobiNumericExtension.CircularAdd(System.Int32,System.Int32,System.Int32,System.Int32)
+  name.vb: CircularAdd(Integer, Integer, Integer, Integer)
+  fullName: Chobitech.ChobiNumericExtension.CircularAdd(int, int, int, int)
+  fullName.vb: Chobitech.ChobiNumericExtension.CircularAdd(Integer, Integer, Integer, Integer)
+  nameWithType: ChobiNumericExtension.CircularAdd(int, int, int, int)
+  nameWithType.vb: ChobiNumericExtension.CircularAdd(Integer, Integer, Integer, Integer)
+- uid: Chobitech.ChobiNumericExtension.CircularAdd(System.Int64,System.Int64,System.Int64,System.Int64)
+  name: CircularAdd(long, long, long, long)
+  href: api/Chobitech.ChobiNumericExtension.html#Chobitech_ChobiNumericExtension_CircularAdd_System_Int64_System_Int64_System_Int64_System_Int64_
+  commentId: M:Chobitech.ChobiNumericExtension.CircularAdd(System.Int64,System.Int64,System.Int64,System.Int64)
+  name.vb: CircularAdd(Long, Long, Long, Long)
+  fullName: Chobitech.ChobiNumericExtension.CircularAdd(long, long, long, long)
+  fullName.vb: Chobitech.ChobiNumericExtension.CircularAdd(Long, Long, Long, Long)
+  nameWithType: ChobiNumericExtension.CircularAdd(long, long, long, long)
+  nameWithType.vb: ChobiNumericExtension.CircularAdd(Long, Long, Long, Long)
+- uid: Chobitech.ChobiNumericExtension.CircularAdd*
+  name: CircularAdd
+  href: api/Chobitech.ChobiNumericExtension.html#Chobitech_ChobiNumericExtension_CircularAdd_
+  commentId: Overload:Chobitech.ChobiNumericExtension.CircularAdd
+  isSpec: "True"
+  fullName: Chobitech.ChobiNumericExtension.CircularAdd
+  nameWithType: ChobiNumericExtension.CircularAdd
+- uid: Chobitech.ChobiNumericExtension.ToString(System.Numerics.BigInteger,System.Boolean)
+  name: ToString(BigInteger, bool)
+  href: api/Chobitech.ChobiNumericExtension.html#Chobitech_ChobiNumericExtension_ToString_System_Numerics_BigInteger_System_Boolean_
+  commentId: M:Chobitech.ChobiNumericExtension.ToString(System.Numerics.BigInteger,System.Boolean)
+  name.vb: ToString(BigInteger, Boolean)
+  fullName: Chobitech.ChobiNumericExtension.ToString(System.Numerics.BigInteger, bool)
+  fullName.vb: Chobitech.ChobiNumericExtension.ToString(System.Numerics.BigInteger, Boolean)
+  nameWithType: ChobiNumericExtension.ToString(BigInteger, bool)
+  nameWithType.vb: ChobiNumericExtension.ToString(BigInteger, Boolean)
+- uid: Chobitech.ChobiNumericExtension.ToString*
+  name: ToString
+  href: api/Chobitech.ChobiNumericExtension.html#Chobitech_ChobiNumericExtension_ToString_
+  commentId: Overload:Chobitech.ChobiNumericExtension.ToString
+  isSpec: "True"
+  fullName: Chobitech.ChobiNumericExtension.ToString
+  nameWithType: ChobiNumericExtension.ToString
+- uid: Chobitech.ChobiStringExtension
+  name: ChobiStringExtension
+  href: api/Chobitech.ChobiStringExtension.html
+  commentId: T:Chobitech.ChobiStringExtension
+  fullName: Chobitech.ChobiStringExtension
+  nameWithType: ChobiStringExtension
+- uid: Chobitech.ChobiStringExtension.ConvertFromBase64(System.String)
+  name: ConvertFromBase64(string)
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_ConvertFromBase64_System_String_
+  commentId: M:Chobitech.ChobiStringExtension.ConvertFromBase64(System.String)
+  name.vb: ConvertFromBase64(String)
+  fullName: Chobitech.ChobiStringExtension.ConvertFromBase64(string)
+  fullName.vb: Chobitech.ChobiStringExtension.ConvertFromBase64(String)
+  nameWithType: ChobiStringExtension.ConvertFromBase64(string)
+  nameWithType.vb: ChobiStringExtension.ConvertFromBase64(String)
+- uid: Chobitech.ChobiStringExtension.ConvertFromBase64*
+  name: ConvertFromBase64
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_ConvertFromBase64_
+  commentId: Overload:Chobitech.ChobiStringExtension.ConvertFromBase64
+  isSpec: "True"
+  fullName: Chobitech.ChobiStringExtension.ConvertFromBase64
+  nameWithType: ChobiStringExtension.ConvertFromBase64
+- uid: Chobitech.ChobiStringExtension.ConvertToBase64String(System.Byte[])
+  name: ConvertToBase64String(byte[])
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_ConvertToBase64String_System_Byte___
+  commentId: M:Chobitech.ChobiStringExtension.ConvertToBase64String(System.Byte[])
+  name.vb: ConvertToBase64String(Byte())
+  fullName: Chobitech.ChobiStringExtension.ConvertToBase64String(byte[])
+  fullName.vb: Chobitech.ChobiStringExtension.ConvertToBase64String(Byte())
+  nameWithType: ChobiStringExtension.ConvertToBase64String(byte[])
+  nameWithType.vb: ChobiStringExtension.ConvertToBase64String(Byte())
+- uid: Chobitech.ChobiStringExtension.ConvertToBase64String*
+  name: ConvertToBase64String
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_ConvertToBase64String_
+  commentId: Overload:Chobitech.ChobiStringExtension.ConvertToBase64String
+  isSpec: "True"
+  fullName: Chobitech.ChobiStringExtension.ConvertToBase64String
+  nameWithType: ChobiStringExtension.ConvertToBase64String
+- uid: Chobitech.ChobiStringExtension.ConvertToByteArray(System.String,System.Text.Encoding)
+  name: ConvertToByteArray(string, Encoding?)
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_ConvertToByteArray_System_String_System_Text_Encoding_
+  commentId: M:Chobitech.ChobiStringExtension.ConvertToByteArray(System.String,System.Text.Encoding)
+  name.vb: ConvertToByteArray(String, Encoding)
+  fullName: Chobitech.ChobiStringExtension.ConvertToByteArray(string, System.Text.Encoding?)
+  fullName.vb: Chobitech.ChobiStringExtension.ConvertToByteArray(String, System.Text.Encoding)
+  nameWithType: ChobiStringExtension.ConvertToByteArray(string, Encoding?)
+  nameWithType.vb: ChobiStringExtension.ConvertToByteArray(String, Encoding)
+- uid: Chobitech.ChobiStringExtension.ConvertToByteArray*
+  name: ConvertToByteArray
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_ConvertToByteArray_
+  commentId: Overload:Chobitech.ChobiStringExtension.ConvertToByteArray
+  isSpec: "True"
+  fullName: Chobitech.ChobiStringExtension.ConvertToByteArray
+  nameWithType: ChobiStringExtension.ConvertToByteArray
+- uid: Chobitech.ChobiStringExtension.ConvertToString(System.Byte[],System.Text.Encoding)
+  name: ConvertToString(byte[], Encoding?)
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_ConvertToString_System_Byte___System_Text_Encoding_
+  commentId: M:Chobitech.ChobiStringExtension.ConvertToString(System.Byte[],System.Text.Encoding)
+  name.vb: ConvertToString(Byte(), Encoding)
+  fullName: Chobitech.ChobiStringExtension.ConvertToString(byte[], System.Text.Encoding?)
+  fullName.vb: Chobitech.ChobiStringExtension.ConvertToString(Byte(), System.Text.Encoding)
+  nameWithType: ChobiStringExtension.ConvertToString(byte[], Encoding?)
+  nameWithType.vb: ChobiStringExtension.ConvertToString(Byte(), Encoding)
+- uid: Chobitech.ChobiStringExtension.ConvertToString*
+  name: ConvertToString
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_ConvertToString_
+  commentId: Overload:Chobitech.ChobiStringExtension.ConvertToString
+  isSpec: "True"
+  fullName: Chobitech.ChobiStringExtension.ConvertToString
+  nameWithType: ChobiStringExtension.ConvertToString
+- uid: Chobitech.ChobiStringExtension.IsBlank(System.String)
+  name: IsBlank(string)
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_IsBlank_System_String_
+  commentId: M:Chobitech.ChobiStringExtension.IsBlank(System.String)
+  name.vb: IsBlank(String)
+  fullName: Chobitech.ChobiStringExtension.IsBlank(string)
+  fullName.vb: Chobitech.ChobiStringExtension.IsBlank(String)
+  nameWithType: ChobiStringExtension.IsBlank(string)
+  nameWithType.vb: ChobiStringExtension.IsBlank(String)
+- uid: Chobitech.ChobiStringExtension.IsBlank*
+  name: IsBlank
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_IsBlank_
+  commentId: Overload:Chobitech.ChobiStringExtension.IsBlank
+  isSpec: "True"
+  fullName: Chobitech.ChobiStringExtension.IsBlank
+  nameWithType: ChobiStringExtension.IsBlank
+- uid: Chobitech.ChobiStringExtension.IsEmpty(System.String)
+  name: IsEmpty(string)
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_IsEmpty_System_String_
+  commentId: M:Chobitech.ChobiStringExtension.IsEmpty(System.String)
+  name.vb: IsEmpty(String)
+  fullName: Chobitech.ChobiStringExtension.IsEmpty(string)
+  fullName.vb: Chobitech.ChobiStringExtension.IsEmpty(String)
+  nameWithType: ChobiStringExtension.IsEmpty(string)
+  nameWithType.vb: ChobiStringExtension.IsEmpty(String)
+- uid: Chobitech.ChobiStringExtension.IsEmpty*
+  name: IsEmpty
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_IsEmpty_
+  commentId: Overload:Chobitech.ChobiStringExtension.IsEmpty
+  isSpec: "True"
+  fullName: Chobitech.ChobiStringExtension.IsEmpty
+  nameWithType: ChobiStringExtension.IsEmpty
+- uid: Chobitech.ChobiStringExtension.IsNotEmpty(System.Text.StringBuilder)
+  name: IsNotEmpty(StringBuilder)
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_IsNotEmpty_System_Text_StringBuilder_
+  commentId: M:Chobitech.ChobiStringExtension.IsNotEmpty(System.Text.StringBuilder)
+  fullName: Chobitech.ChobiStringExtension.IsNotEmpty(System.Text.StringBuilder)
+  nameWithType: ChobiStringExtension.IsNotEmpty(StringBuilder)
+- uid: Chobitech.ChobiStringExtension.IsNotEmpty*
+  name: IsNotEmpty
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_IsNotEmpty_
+  commentId: Overload:Chobitech.ChobiStringExtension.IsNotEmpty
+  isSpec: "True"
+  fullName: Chobitech.ChobiStringExtension.IsNotEmpty
+  nameWithType: ChobiStringExtension.IsNotEmpty
+- uid: Chobitech.ChobiStringExtension.ToStringList(System.String)
+  name: ToStringList(string)
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_ToStringList_System_String_
+  commentId: M:Chobitech.ChobiStringExtension.ToStringList(System.String)
+  name.vb: ToStringList(String)
+  fullName: Chobitech.ChobiStringExtension.ToStringList(string)
+  fullName.vb: Chobitech.ChobiStringExtension.ToStringList(String)
+  nameWithType: ChobiStringExtension.ToStringList(string)
+  nameWithType.vb: ChobiStringExtension.ToStringList(String)
+- uid: Chobitech.ChobiStringExtension.ToStringList*
+  name: ToStringList
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_ToStringList_
+  commentId: Overload:Chobitech.ChobiStringExtension.ToStringList
+  isSpec: "True"
+  fullName: Chobitech.ChobiStringExtension.ToStringList
+  nameWithType: ChobiStringExtension.ToStringList
+- uid: Chobitech.ChobiStringExtension.Truncate(System.String,System.Int32)
+  name: Truncate(string, int)
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_Truncate_System_String_System_Int32_
+  commentId: M:Chobitech.ChobiStringExtension.Truncate(System.String,System.Int32)
+  name.vb: Truncate(String, Integer)
+  fullName: Chobitech.ChobiStringExtension.Truncate(string, int)
+  fullName.vb: Chobitech.ChobiStringExtension.Truncate(String, Integer)
+  nameWithType: ChobiStringExtension.Truncate(string, int)
+  nameWithType.vb: ChobiStringExtension.Truncate(String, Integer)
+- uid: Chobitech.ChobiStringExtension.Truncate*
+  name: Truncate
+  href: api/Chobitech.ChobiStringExtension.html#Chobitech_ChobiStringExtension_Truncate_
+  commentId: Overload:Chobitech.ChobiStringExtension.Truncate
+  isSpec: "True"
+  fullName: Chobitech.ChobiStringExtension.Truncate
+  nameWithType: ChobiStringExtension.Truncate
+- uid: Chobitech.HugeFixedDecimal
+  name: HugeFixedDecimal
+  href: api/Chobitech.HugeFixedDecimal.html
+  commentId: T:Chobitech.HugeFixedDecimal
+  fullName: Chobitech.HugeFixedDecimal
+  nameWithType: HugeFixedDecimal
+- uid: Chobitech.HugeFixedDecimal.#ctor(System.Double,System.Int32)
+  name: HugeFixedDecimal(double, int)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal__ctor_System_Double_System_Int32_
+  commentId: M:Chobitech.HugeFixedDecimal.#ctor(System.Double,System.Int32)
+  name.vb: New(Double, Integer)
+  fullName: Chobitech.HugeFixedDecimal.HugeFixedDecimal(double, int)
+  fullName.vb: Chobitech.HugeFixedDecimal.New(Double, Integer)
+  nameWithType: HugeFixedDecimal.HugeFixedDecimal(double, int)
+  nameWithType.vb: HugeFixedDecimal.New(Double, Integer)
+- uid: Chobitech.HugeFixedDecimal.#ctor(System.Nullable{System.Numerics.BigInteger},System.Int32)
+  name: HugeFixedDecimal(BigInteger?, int)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal__ctor_System_Nullable_System_Numerics_BigInteger__System_Int32_
+  commentId: M:Chobitech.HugeFixedDecimal.#ctor(System.Nullable{System.Numerics.BigInteger},System.Int32)
+  name.vb: New(BigInteger?, Integer)
+  fullName: Chobitech.HugeFixedDecimal.HugeFixedDecimal(System.Numerics.BigInteger?, int)
+  fullName.vb: Chobitech.HugeFixedDecimal.New(System.Numerics.BigInteger?, Integer)
+  nameWithType: HugeFixedDecimal.HugeFixedDecimal(BigInteger?, int)
+  nameWithType.vb: HugeFixedDecimal.New(BigInteger?, Integer)
+- uid: Chobitech.HugeFixedDecimal.#ctor*
+  name: HugeFixedDecimal
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal__ctor_
+  commentId: Overload:Chobitech.HugeFixedDecimal.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Chobitech.HugeFixedDecimal.HugeFixedDecimal
+  fullName.vb: Chobitech.HugeFixedDecimal.New
+  nameWithType: HugeFixedDecimal.HugeFixedDecimal
+  nameWithType.vb: HugeFixedDecimal.New
+- uid: Chobitech.HugeFixedDecimal.Add(Chobitech.HugeFixedDecimal)
+  name: Add(HugeFixedDecimal)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Add_Chobitech_HugeFixedDecimal_
+  commentId: M:Chobitech.HugeFixedDecimal.Add(Chobitech.HugeFixedDecimal)
+  fullName: Chobitech.HugeFixedDecimal.Add(Chobitech.HugeFixedDecimal)
+  nameWithType: HugeFixedDecimal.Add(HugeFixedDecimal)
+- uid: Chobitech.HugeFixedDecimal.Add(System.Double)
+  name: Add(double)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Add_System_Double_
+  commentId: M:Chobitech.HugeFixedDecimal.Add(System.Double)
+  name.vb: Add(Double)
+  fullName: Chobitech.HugeFixedDecimal.Add(double)
+  fullName.vb: Chobitech.HugeFixedDecimal.Add(Double)
+  nameWithType: HugeFixedDecimal.Add(double)
+  nameWithType.vb: HugeFixedDecimal.Add(Double)
+- uid: Chobitech.HugeFixedDecimal.Add*
+  name: Add
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Add_
+  commentId: Overload:Chobitech.HugeFixedDecimal.Add
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.Add
+  nameWithType: HugeFixedDecimal.Add
+- uid: Chobitech.HugeFixedDecimal.ChangeFractionalDigits(System.Int32)
+  name: ChangeFractionalDigits(int)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_ChangeFractionalDigits_System_Int32_
+  commentId: M:Chobitech.HugeFixedDecimal.ChangeFractionalDigits(System.Int32)
+  name.vb: ChangeFractionalDigits(Integer)
+  fullName: Chobitech.HugeFixedDecimal.ChangeFractionalDigits(int)
+  fullName.vb: Chobitech.HugeFixedDecimal.ChangeFractionalDigits(Integer)
+  nameWithType: HugeFixedDecimal.ChangeFractionalDigits(int)
+  nameWithType.vb: HugeFixedDecimal.ChangeFractionalDigits(Integer)
+- uid: Chobitech.HugeFixedDecimal.ChangeFractionalDigits*
+  name: ChangeFractionalDigits
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_ChangeFractionalDigits_
+  commentId: Overload:Chobitech.HugeFixedDecimal.ChangeFractionalDigits
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.ChangeFractionalDigits
+  nameWithType: HugeFixedDecimal.ChangeFractionalDigits
+- uid: Chobitech.HugeFixedDecimal.DefaultFractionalDigits
+  name: DefaultFractionalDigits
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_DefaultFractionalDigits
+  commentId: F:Chobitech.HugeFixedDecimal.DefaultFractionalDigits
+  fullName: Chobitech.HugeFixedDecimal.DefaultFractionalDigits
+  nameWithType: HugeFixedDecimal.DefaultFractionalDigits
+- uid: Chobitech.HugeFixedDecimal.Divide(Chobitech.HugeFixedDecimal)
+  name: Divide(HugeFixedDecimal)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Divide_Chobitech_HugeFixedDecimal_
+  commentId: M:Chobitech.HugeFixedDecimal.Divide(Chobitech.HugeFixedDecimal)
+  fullName: Chobitech.HugeFixedDecimal.Divide(Chobitech.HugeFixedDecimal)
+  nameWithType: HugeFixedDecimal.Divide(HugeFixedDecimal)
+- uid: Chobitech.HugeFixedDecimal.Divide(System.Double)
+  name: Divide(double)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Divide_System_Double_
+  commentId: M:Chobitech.HugeFixedDecimal.Divide(System.Double)
+  name.vb: Divide(Double)
+  fullName: Chobitech.HugeFixedDecimal.Divide(double)
+  fullName.vb: Chobitech.HugeFixedDecimal.Divide(Double)
+  nameWithType: HugeFixedDecimal.Divide(double)
+  nameWithType.vb: HugeFixedDecimal.Divide(Double)
+- uid: Chobitech.HugeFixedDecimal.Divide*
+  name: Divide
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Divide_
+  commentId: Overload:Chobitech.HugeFixedDecimal.Divide
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.Divide
+  nameWithType: HugeFixedDecimal.Divide
+- uid: Chobitech.HugeFixedDecimal.Equals(System.Object)
+  name: Equals(object?)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Equals_System_Object_
+  commentId: M:Chobitech.HugeFixedDecimal.Equals(System.Object)
+  name.vb: Equals(Object)
+  fullName: Chobitech.HugeFixedDecimal.Equals(object?)
+  fullName.vb: Chobitech.HugeFixedDecimal.Equals(Object)
+  nameWithType: HugeFixedDecimal.Equals(object?)
+  nameWithType.vb: HugeFixedDecimal.Equals(Object)
+- uid: Chobitech.HugeFixedDecimal.Equals*
+  name: Equals
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Equals_
+  commentId: Overload:Chobitech.HugeFixedDecimal.Equals
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.Equals
+  nameWithType: HugeFixedDecimal.Equals
+- uid: Chobitech.HugeFixedDecimal.FractionalDigits
+  name: FractionalDigits
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_FractionalDigits
+  commentId: P:Chobitech.HugeFixedDecimal.FractionalDigits
+  fullName: Chobitech.HugeFixedDecimal.FractionalDigits
+  nameWithType: HugeFixedDecimal.FractionalDigits
+- uid: Chobitech.HugeFixedDecimal.FractionalDigits*
+  name: FractionalDigits
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_FractionalDigits_
+  commentId: Overload:Chobitech.HugeFixedDecimal.FractionalDigits
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.FractionalDigits
+  nameWithType: HugeFixedDecimal.FractionalDigits
+- uid: Chobitech.HugeFixedDecimal.GetHashCode
+  name: GetHashCode()
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_GetHashCode
+  commentId: M:Chobitech.HugeFixedDecimal.GetHashCode
+  fullName: Chobitech.HugeFixedDecimal.GetHashCode()
+  nameWithType: HugeFixedDecimal.GetHashCode()
+- uid: Chobitech.HugeFixedDecimal.GetHashCode*
+  name: GetHashCode
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_GetHashCode_
+  commentId: Overload:Chobitech.HugeFixedDecimal.GetHashCode
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.GetHashCode
+  nameWithType: HugeFixedDecimal.GetHashCode
+- uid: Chobitech.HugeFixedDecimal.Multiply(Chobitech.HugeFixedDecimal)
+  name: Multiply(HugeFixedDecimal)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Multiply_Chobitech_HugeFixedDecimal_
+  commentId: M:Chobitech.HugeFixedDecimal.Multiply(Chobitech.HugeFixedDecimal)
+  fullName: Chobitech.HugeFixedDecimal.Multiply(Chobitech.HugeFixedDecimal)
+  nameWithType: HugeFixedDecimal.Multiply(HugeFixedDecimal)
+- uid: Chobitech.HugeFixedDecimal.Multiply(System.Double)
+  name: Multiply(double)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Multiply_System_Double_
+  commentId: M:Chobitech.HugeFixedDecimal.Multiply(System.Double)
+  name.vb: Multiply(Double)
+  fullName: Chobitech.HugeFixedDecimal.Multiply(double)
+  fullName.vb: Chobitech.HugeFixedDecimal.Multiply(Double)
+  nameWithType: HugeFixedDecimal.Multiply(double)
+  nameWithType.vb: HugeFixedDecimal.Multiply(Double)
+- uid: Chobitech.HugeFixedDecimal.Multiply*
+  name: Multiply
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Multiply_
+  commentId: Overload:Chobitech.HugeFixedDecimal.Multiply
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.Multiply
+  nameWithType: HugeFixedDecimal.Multiply
+- uid: Chobitech.HugeFixedDecimal.Parse(System.String,System.Nullable{System.Int32})
+  name: Parse(string, int?)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Parse_System_String_System_Nullable_System_Int32__
+  commentId: M:Chobitech.HugeFixedDecimal.Parse(System.String,System.Nullable{System.Int32})
+  name.vb: Parse(String, Integer?)
+  fullName: Chobitech.HugeFixedDecimal.Parse(string, int?)
+  fullName.vb: Chobitech.HugeFixedDecimal.Parse(String, Integer?)
+  nameWithType: HugeFixedDecimal.Parse(string, int?)
+  nameWithType.vb: HugeFixedDecimal.Parse(String, Integer?)
+- uid: Chobitech.HugeFixedDecimal.Parse*
+  name: Parse
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Parse_
+  commentId: Overload:Chobitech.HugeFixedDecimal.Parse
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.Parse
+  nameWithType: HugeFixedDecimal.Parse
+- uid: Chobitech.HugeFixedDecimal.RawFullValue
+  name: RawFullValue
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_RawFullValue
+  commentId: P:Chobitech.HugeFixedDecimal.RawFullValue
+  fullName: Chobitech.HugeFixedDecimal.RawFullValue
+  nameWithType: HugeFixedDecimal.RawFullValue
+- uid: Chobitech.HugeFixedDecimal.RawFullValue*
+  name: RawFullValue
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_RawFullValue_
+  commentId: Overload:Chobitech.HugeFixedDecimal.RawFullValue
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.RawFullValue
+  nameWithType: HugeFixedDecimal.RawFullValue
+- uid: Chobitech.HugeFixedDecimal.Subtract(Chobitech.HugeFixedDecimal)
+  name: Subtract(HugeFixedDecimal)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Subtract_Chobitech_HugeFixedDecimal_
+  commentId: M:Chobitech.HugeFixedDecimal.Subtract(Chobitech.HugeFixedDecimal)
+  fullName: Chobitech.HugeFixedDecimal.Subtract(Chobitech.HugeFixedDecimal)
+  nameWithType: HugeFixedDecimal.Subtract(HugeFixedDecimal)
+- uid: Chobitech.HugeFixedDecimal.Subtract(System.Double)
+  name: Subtract(double)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Subtract_System_Double_
+  commentId: M:Chobitech.HugeFixedDecimal.Subtract(System.Double)
+  name.vb: Subtract(Double)
+  fullName: Chobitech.HugeFixedDecimal.Subtract(double)
+  fullName.vb: Chobitech.HugeFixedDecimal.Subtract(Double)
+  nameWithType: HugeFixedDecimal.Subtract(double)
+  nameWithType.vb: HugeFixedDecimal.Subtract(Double)
+- uid: Chobitech.HugeFixedDecimal.Subtract*
+  name: Subtract
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_Subtract_
+  commentId: Overload:Chobitech.HugeFixedDecimal.Subtract
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.Subtract
+  nameWithType: HugeFixedDecimal.Subtract
+- uid: Chobitech.HugeFixedDecimal.ToString
+  name: ToString()
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_ToString
+  commentId: M:Chobitech.HugeFixedDecimal.ToString
+  fullName: Chobitech.HugeFixedDecimal.ToString()
+  nameWithType: HugeFixedDecimal.ToString()
+- uid: Chobitech.HugeFixedDecimal.ToString(System.Boolean)
+  name: ToString(bool)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_ToString_System_Boolean_
+  commentId: M:Chobitech.HugeFixedDecimal.ToString(System.Boolean)
+  name.vb: ToString(Boolean)
+  fullName: Chobitech.HugeFixedDecimal.ToString(bool)
+  fullName.vb: Chobitech.HugeFixedDecimal.ToString(Boolean)
+  nameWithType: HugeFixedDecimal.ToString(bool)
+  nameWithType.vb: HugeFixedDecimal.ToString(Boolean)
+- uid: Chobitech.HugeFixedDecimal.ToString*
+  name: ToString
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_ToString_
+  commentId: Overload:Chobitech.HugeFixedDecimal.ToString
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.ToString
+  nameWithType: HugeFixedDecimal.ToString
+- uid: Chobitech.HugeFixedDecimal.TryParse(System.String,Chobitech.HugeFixedDecimal@,System.Nullable{System.Int32})
+  name: TryParse(string, out HugeFixedDecimal?, int?)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_TryParse_System_String_Chobitech_HugeFixedDecimal__System_Nullable_System_Int32__
+  commentId: M:Chobitech.HugeFixedDecimal.TryParse(System.String,Chobitech.HugeFixedDecimal@,System.Nullable{System.Int32})
+  name.vb: TryParse(String, HugeFixedDecimal, Integer?)
+  fullName: Chobitech.HugeFixedDecimal.TryParse(string, out Chobitech.HugeFixedDecimal?, int?)
+  fullName.vb: Chobitech.HugeFixedDecimal.TryParse(String, Chobitech.HugeFixedDecimal, Integer?)
+  nameWithType: HugeFixedDecimal.TryParse(string, out HugeFixedDecimal?, int?)
+  nameWithType.vb: HugeFixedDecimal.TryParse(String, HugeFixedDecimal, Integer?)
+- uid: Chobitech.HugeFixedDecimal.TryParse*
+  name: TryParse
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_TryParse_
+  commentId: Overload:Chobitech.HugeFixedDecimal.TryParse
+  isSpec: "True"
+  fullName: Chobitech.HugeFixedDecimal.TryParse
+  nameWithType: HugeFixedDecimal.TryParse
+- uid: Chobitech.HugeFixedDecimal.op_Addition(Chobitech.HugeFixedDecimal,Chobitech.HugeFixedDecimal)
+  name: operator +(HugeFixedDecimal, HugeFixedDecimal)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Addition_Chobitech_HugeFixedDecimal_Chobitech_HugeFixedDecimal_
+  commentId: M:Chobitech.HugeFixedDecimal.op_Addition(Chobitech.HugeFixedDecimal,Chobitech.HugeFixedDecimal)
+  name.vb: +(HugeFixedDecimal, HugeFixedDecimal)
+  fullName: Chobitech.HugeFixedDecimal.operator +(Chobitech.HugeFixedDecimal, Chobitech.HugeFixedDecimal)
+  fullName.vb: Chobitech.HugeFixedDecimal.+(Chobitech.HugeFixedDecimal, Chobitech.HugeFixedDecimal)
+  nameWithType: HugeFixedDecimal.operator +(HugeFixedDecimal, HugeFixedDecimal)
+  nameWithType.vb: HugeFixedDecimal.+(HugeFixedDecimal, HugeFixedDecimal)
+- uid: Chobitech.HugeFixedDecimal.op_Addition(Chobitech.HugeFixedDecimal,System.Double)
+  name: operator +(HugeFixedDecimal, double)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Addition_Chobitech_HugeFixedDecimal_System_Double_
+  commentId: M:Chobitech.HugeFixedDecimal.op_Addition(Chobitech.HugeFixedDecimal,System.Double)
+  name.vb: +(HugeFixedDecimal, Double)
+  fullName: Chobitech.HugeFixedDecimal.operator +(Chobitech.HugeFixedDecimal, double)
+  fullName.vb: Chobitech.HugeFixedDecimal.+(Chobitech.HugeFixedDecimal, Double)
+  nameWithType: HugeFixedDecimal.operator +(HugeFixedDecimal, double)
+  nameWithType.vb: HugeFixedDecimal.+(HugeFixedDecimal, Double)
+- uid: Chobitech.HugeFixedDecimal.op_Addition*
+  name: operator +
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Addition_
+  commentId: Overload:Chobitech.HugeFixedDecimal.op_Addition
+  isSpec: "True"
+  name.vb: +
+  fullName: Chobitech.HugeFixedDecimal.operator +
+  fullName.vb: Chobitech.HugeFixedDecimal.+
+  nameWithType: HugeFixedDecimal.operator +
+  nameWithType.vb: HugeFixedDecimal.+
+- uid: Chobitech.HugeFixedDecimal.op_Division(Chobitech.HugeFixedDecimal,Chobitech.HugeFixedDecimal)
+  name: operator /(HugeFixedDecimal, HugeFixedDecimal)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Division_Chobitech_HugeFixedDecimal_Chobitech_HugeFixedDecimal_
+  commentId: M:Chobitech.HugeFixedDecimal.op_Division(Chobitech.HugeFixedDecimal,Chobitech.HugeFixedDecimal)
+  name.vb: /(HugeFixedDecimal, HugeFixedDecimal)
+  fullName: Chobitech.HugeFixedDecimal.operator /(Chobitech.HugeFixedDecimal, Chobitech.HugeFixedDecimal)
+  fullName.vb: Chobitech.HugeFixedDecimal./(Chobitech.HugeFixedDecimal, Chobitech.HugeFixedDecimal)
+  nameWithType: HugeFixedDecimal.operator /(HugeFixedDecimal, HugeFixedDecimal)
+  nameWithType.vb: HugeFixedDecimal./(HugeFixedDecimal, HugeFixedDecimal)
+- uid: Chobitech.HugeFixedDecimal.op_Division(Chobitech.HugeFixedDecimal,System.Double)
+  name: operator /(HugeFixedDecimal, double)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Division_Chobitech_HugeFixedDecimal_System_Double_
+  commentId: M:Chobitech.HugeFixedDecimal.op_Division(Chobitech.HugeFixedDecimal,System.Double)
+  name.vb: /(HugeFixedDecimal, Double)
+  fullName: Chobitech.HugeFixedDecimal.operator /(Chobitech.HugeFixedDecimal, double)
+  fullName.vb: Chobitech.HugeFixedDecimal./(Chobitech.HugeFixedDecimal, Double)
+  nameWithType: HugeFixedDecimal.operator /(HugeFixedDecimal, double)
+  nameWithType.vb: HugeFixedDecimal./(HugeFixedDecimal, Double)
+- uid: Chobitech.HugeFixedDecimal.op_Division*
+  name: operator /
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Division_
+  commentId: Overload:Chobitech.HugeFixedDecimal.op_Division
+  isSpec: "True"
+  name.vb: /
+  fullName: Chobitech.HugeFixedDecimal.operator /
+  fullName.vb: Chobitech.HugeFixedDecimal./
+  nameWithType: HugeFixedDecimal.operator /
+  nameWithType.vb: HugeFixedDecimal./
+- uid: Chobitech.HugeFixedDecimal.op_Multiply(Chobitech.HugeFixedDecimal,Chobitech.HugeFixedDecimal)
+  name: operator *(HugeFixedDecimal, HugeFixedDecimal)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Multiply_Chobitech_HugeFixedDecimal_Chobitech_HugeFixedDecimal_
+  commentId: M:Chobitech.HugeFixedDecimal.op_Multiply(Chobitech.HugeFixedDecimal,Chobitech.HugeFixedDecimal)
+  name.vb: '*(HugeFixedDecimal, HugeFixedDecimal)'
+  fullName: Chobitech.HugeFixedDecimal.operator *(Chobitech.HugeFixedDecimal, Chobitech.HugeFixedDecimal)
+  fullName.vb: Chobitech.HugeFixedDecimal.*(Chobitech.HugeFixedDecimal, Chobitech.HugeFixedDecimal)
+  nameWithType: HugeFixedDecimal.operator *(HugeFixedDecimal, HugeFixedDecimal)
+  nameWithType.vb: HugeFixedDecimal.*(HugeFixedDecimal, HugeFixedDecimal)
+- uid: Chobitech.HugeFixedDecimal.op_Multiply(Chobitech.HugeFixedDecimal,System.Double)
+  name: operator *(HugeFixedDecimal, double)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Multiply_Chobitech_HugeFixedDecimal_System_Double_
+  commentId: M:Chobitech.HugeFixedDecimal.op_Multiply(Chobitech.HugeFixedDecimal,System.Double)
+  name.vb: '*(HugeFixedDecimal, Double)'
+  fullName: Chobitech.HugeFixedDecimal.operator *(Chobitech.HugeFixedDecimal, double)
+  fullName.vb: Chobitech.HugeFixedDecimal.*(Chobitech.HugeFixedDecimal, Double)
+  nameWithType: HugeFixedDecimal.operator *(HugeFixedDecimal, double)
+  nameWithType.vb: HugeFixedDecimal.*(HugeFixedDecimal, Double)
+- uid: Chobitech.HugeFixedDecimal.op_Multiply*
+  name: operator *
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Multiply_
+  commentId: Overload:Chobitech.HugeFixedDecimal.op_Multiply
+  isSpec: "True"
+  name.vb: '*'
+  fullName: Chobitech.HugeFixedDecimal.operator *
+  fullName.vb: Chobitech.HugeFixedDecimal.*
+  nameWithType: HugeFixedDecimal.operator *
+  nameWithType.vb: HugeFixedDecimal.*
+- uid: Chobitech.HugeFixedDecimal.op_Subtraction(Chobitech.HugeFixedDecimal,Chobitech.HugeFixedDecimal)
+  name: operator -(HugeFixedDecimal, HugeFixedDecimal)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Subtraction_Chobitech_HugeFixedDecimal_Chobitech_HugeFixedDecimal_
+  commentId: M:Chobitech.HugeFixedDecimal.op_Subtraction(Chobitech.HugeFixedDecimal,Chobitech.HugeFixedDecimal)
+  name.vb: -(HugeFixedDecimal, HugeFixedDecimal)
+  fullName: Chobitech.HugeFixedDecimal.operator -(Chobitech.HugeFixedDecimal, Chobitech.HugeFixedDecimal)
+  fullName.vb: Chobitech.HugeFixedDecimal.-(Chobitech.HugeFixedDecimal, Chobitech.HugeFixedDecimal)
+  nameWithType: HugeFixedDecimal.operator -(HugeFixedDecimal, HugeFixedDecimal)
+  nameWithType.vb: HugeFixedDecimal.-(HugeFixedDecimal, HugeFixedDecimal)
+- uid: Chobitech.HugeFixedDecimal.op_Subtraction(Chobitech.HugeFixedDecimal,System.Double)
+  name: operator -(HugeFixedDecimal, double)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Subtraction_Chobitech_HugeFixedDecimal_System_Double_
+  commentId: M:Chobitech.HugeFixedDecimal.op_Subtraction(Chobitech.HugeFixedDecimal,System.Double)
+  name.vb: -(HugeFixedDecimal, Double)
+  fullName: Chobitech.HugeFixedDecimal.operator -(Chobitech.HugeFixedDecimal, double)
+  fullName.vb: Chobitech.HugeFixedDecimal.-(Chobitech.HugeFixedDecimal, Double)
+  nameWithType: HugeFixedDecimal.operator -(HugeFixedDecimal, double)
+  nameWithType.vb: HugeFixedDecimal.-(HugeFixedDecimal, Double)
+- uid: Chobitech.HugeFixedDecimal.op_Subtraction*
+  name: operator -
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_Subtraction_
+  commentId: Overload:Chobitech.HugeFixedDecimal.op_Subtraction
+  isSpec: "True"
+  name.vb: '-'
+  fullName: Chobitech.HugeFixedDecimal.operator -
+  fullName.vb: Chobitech.HugeFixedDecimal.-
+  nameWithType: HugeFixedDecimal.operator -
+  nameWithType.vb: HugeFixedDecimal.-
+- uid: Chobitech.HugeFixedDecimal.op_UnaryNegation(Chobitech.HugeFixedDecimal)
+  name: operator -(HugeFixedDecimal)
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_UnaryNegation_Chobitech_HugeFixedDecimal_
+  commentId: M:Chobitech.HugeFixedDecimal.op_UnaryNegation(Chobitech.HugeFixedDecimal)
+  name.vb: -(HugeFixedDecimal)
+  fullName: Chobitech.HugeFixedDecimal.operator -(Chobitech.HugeFixedDecimal)
+  fullName.vb: Chobitech.HugeFixedDecimal.-(Chobitech.HugeFixedDecimal)
+  nameWithType: HugeFixedDecimal.operator -(HugeFixedDecimal)
+  nameWithType.vb: HugeFixedDecimal.-(HugeFixedDecimal)
+- uid: Chobitech.HugeFixedDecimal.op_UnaryNegation*
+  name: operator -
+  href: api/Chobitech.HugeFixedDecimal.html#Chobitech_HugeFixedDecimal_op_UnaryNegation_
+  commentId: Overload:Chobitech.HugeFixedDecimal.op_UnaryNegation
+  isSpec: "True"
+  name.vb: '-'
+  fullName: Chobitech.HugeFixedDecimal.operator -
+  fullName.vb: Chobitech.HugeFixedDecimal.-
+  nameWithType: HugeFixedDecimal.operator -
+  nameWithType.vb: HugeFixedDecimal.-
+- uid: Chobitech.IntRange
+  name: IntRange
+  href: api/Chobitech.IntRange.html
+  commentId: T:Chobitech.IntRange
+  fullName: Chobitech.IntRange
+  nameWithType: IntRange
+- uid: Chobitech.IntRange.#ctor(System.Int32,System.Int32)
+  name: IntRange(int, int)
+  href: api/Chobitech.IntRange.html#Chobitech_IntRange__ctor_System_Int32_System_Int32_
+  commentId: M:Chobitech.IntRange.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: Chobitech.IntRange.IntRange(int, int)
+  fullName.vb: Chobitech.IntRange.New(Integer, Integer)
+  nameWithType: IntRange.IntRange(int, int)
+  nameWithType.vb: IntRange.New(Integer, Integer)
+- uid: Chobitech.IntRange.#ctor*
+  name: IntRange
+  href: api/Chobitech.IntRange.html#Chobitech_IntRange__ctor_
+  commentId: Overload:Chobitech.IntRange.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Chobitech.IntRange.IntRange
+  fullName.vb: Chobitech.IntRange.New
+  nameWithType: IntRange.IntRange
+  nameWithType.vb: IntRange.New
+- uid: Chobitech.JapaneseEra
+  name: JapaneseEra
+  href: api/Chobitech.JapaneseEra.html
+  commentId: T:Chobitech.JapaneseEra
+  fullName: Chobitech.JapaneseEra
+  nameWithType: JapaneseEra
+- uid: Chobitech.JapaneseEra.GetEraData(Chobitech.JapaneseEraName)
+  name: GetEraData(JapaneseEraName)
+  href: api/Chobitech.JapaneseEra.html#Chobitech_JapaneseEra_GetEraData_Chobitech_JapaneseEraName_
+  commentId: M:Chobitech.JapaneseEra.GetEraData(Chobitech.JapaneseEraName)
+  fullName: Chobitech.JapaneseEra.GetEraData(Chobitech.JapaneseEraName)
+  nameWithType: JapaneseEra.GetEraData(JapaneseEraName)
+- uid: Chobitech.JapaneseEra.GetEraData(System.Int32,System.Int32,System.Int32)
+  name: GetEraData(int, int, int)
+  href: api/Chobitech.JapaneseEra.html#Chobitech_JapaneseEra_GetEraData_System_Int32_System_Int32_System_Int32_
+  commentId: M:Chobitech.JapaneseEra.GetEraData(System.Int32,System.Int32,System.Int32)
+  name.vb: GetEraData(Integer, Integer, Integer)
+  fullName: Chobitech.JapaneseEra.GetEraData(int, int, int)
+  fullName.vb: Chobitech.JapaneseEra.GetEraData(Integer, Integer, Integer)
+  nameWithType: JapaneseEra.GetEraData(int, int, int)
+  nameWithType.vb: JapaneseEra.GetEraData(Integer, Integer, Integer)
+- uid: Chobitech.JapaneseEra.GetEraData(System.Nullable{System.DateTime})
+  name: GetEraData(DateTime?)
+  href: api/Chobitech.JapaneseEra.html#Chobitech_JapaneseEra_GetEraData_System_Nullable_System_DateTime__
+  commentId: M:Chobitech.JapaneseEra.GetEraData(System.Nullable{System.DateTime})
+  name.vb: GetEraData(Date?)
+  fullName: Chobitech.JapaneseEra.GetEraData(System.DateTime?)
+  fullName.vb: Chobitech.JapaneseEra.GetEraData(Date?)
+  nameWithType: JapaneseEra.GetEraData(DateTime?)
+  nameWithType.vb: JapaneseEra.GetEraData(Date?)
+- uid: Chobitech.JapaneseEra.GetEraData*
+  name: GetEraData
+  href: api/Chobitech.JapaneseEra.html#Chobitech_JapaneseEra_GetEraData_
+  commentId: Overload:Chobitech.JapaneseEra.GetEraData
+  isSpec: "True"
+  fullName: Chobitech.JapaneseEra.GetEraData
+  nameWithType: JapaneseEra.GetEraData
+- uid: Chobitech.JapaneseEra.GetJpName(Chobitech.JapaneseEraName)
+  name: GetJpName(JapaneseEraName)
+  href: api/Chobitech.JapaneseEra.html#Chobitech_JapaneseEra_GetJpName_Chobitech_JapaneseEraName_
+  commentId: M:Chobitech.JapaneseEra.GetJpName(Chobitech.JapaneseEraName)
+  fullName: Chobitech.JapaneseEra.GetJpName(Chobitech.JapaneseEraName)
+  nameWithType: JapaneseEra.GetJpName(JapaneseEraName)
+- uid: Chobitech.JapaneseEra.GetJpName*
+  name: GetJpName
+  href: api/Chobitech.JapaneseEra.html#Chobitech_JapaneseEra_GetJpName_
+  commentId: Overload:Chobitech.JapaneseEra.GetJpName
+  isSpec: "True"
+  fullName: Chobitech.JapaneseEra.GetJpName
+  nameWithType: JapaneseEra.GetJpName
+- uid: Chobitech.JapaneseEraData
+  name: JapaneseEraData
+  href: api/Chobitech.JapaneseEraData.html
+  commentId: T:Chobitech.JapaneseEraData
+  fullName: Chobitech.JapaneseEraData
+  nameWithType: JapaneseEraData
+- uid: Chobitech.JapaneseEraData.ChristianEra
+  name: ChristianEra
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_ChristianEra
+  commentId: P:Chobitech.JapaneseEraData.ChristianEra
+  fullName: Chobitech.JapaneseEraData.ChristianEra
+  nameWithType: JapaneseEraData.ChristianEra
+- uid: Chobitech.JapaneseEraData.ChristianEra*
+  name: ChristianEra
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_ChristianEra_
+  commentId: Overload:Chobitech.JapaneseEraData.ChristianEra
+  isSpec: "True"
+  fullName: Chobitech.JapaneseEraData.ChristianEra
+  nameWithType: JapaneseEraData.ChristianEra
+- uid: Chobitech.JapaneseEraData.CompareTo(Chobitech.JapaneseEraData)
+  name: CompareTo(JapaneseEraData)
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_CompareTo_Chobitech_JapaneseEraData_
+  commentId: M:Chobitech.JapaneseEraData.CompareTo(Chobitech.JapaneseEraData)
+  fullName: Chobitech.JapaneseEraData.CompareTo(Chobitech.JapaneseEraData)
+  nameWithType: JapaneseEraData.CompareTo(JapaneseEraData)
+- uid: Chobitech.JapaneseEraData.CompareTo*
+  name: CompareTo
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_CompareTo_
+  commentId: Overload:Chobitech.JapaneseEraData.CompareTo
+  isSpec: "True"
+  fullName: Chobitech.JapaneseEraData.CompareTo
+  nameWithType: JapaneseEraData.CompareTo
+- uid: Chobitech.JapaneseEraData.Day
+  name: Day
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_Day
+  commentId: P:Chobitech.JapaneseEraData.Day
+  fullName: Chobitech.JapaneseEraData.Day
+  nameWithType: JapaneseEraData.Day
+- uid: Chobitech.JapaneseEraData.Day*
+  name: Day
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_Day_
+  commentId: Overload:Chobitech.JapaneseEraData.Day
+  isSpec: "True"
+  fullName: Chobitech.JapaneseEraData.Day
+  nameWithType: JapaneseEraData.Day
+- uid: Chobitech.JapaneseEraData.Equals(Chobitech.JapaneseEraData)
+  name: Equals(JapaneseEraData)
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_Equals_Chobitech_JapaneseEraData_
+  commentId: M:Chobitech.JapaneseEraData.Equals(Chobitech.JapaneseEraData)
+  fullName: Chobitech.JapaneseEraData.Equals(Chobitech.JapaneseEraData)
+  nameWithType: JapaneseEraData.Equals(JapaneseEraData)
+- uid: Chobitech.JapaneseEraData.Equals(System.Object)
+  name: Equals(object?)
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_Equals_System_Object_
+  commentId: M:Chobitech.JapaneseEraData.Equals(System.Object)
+  name.vb: Equals(Object)
+  fullName: Chobitech.JapaneseEraData.Equals(object?)
+  fullName.vb: Chobitech.JapaneseEraData.Equals(Object)
+  nameWithType: JapaneseEraData.Equals(object?)
+  nameWithType.vb: JapaneseEraData.Equals(Object)
+- uid: Chobitech.JapaneseEraData.Equals*
+  name: Equals
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_Equals_
+  commentId: Overload:Chobitech.JapaneseEraData.Equals
+  isSpec: "True"
+  fullName: Chobitech.JapaneseEraData.Equals
+  nameWithType: JapaneseEraData.Equals
+- uid: Chobitech.JapaneseEraData.EraName
+  name: EraName
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_EraName
+  commentId: P:Chobitech.JapaneseEraData.EraName
+  fullName: Chobitech.JapaneseEraData.EraName
+  nameWithType: JapaneseEraData.EraName
+- uid: Chobitech.JapaneseEraData.EraName*
+  name: EraName
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_EraName_
+  commentId: Overload:Chobitech.JapaneseEraData.EraName
+  isSpec: "True"
+  fullName: Chobitech.JapaneseEraData.EraName
+  nameWithType: JapaneseEraData.EraName
+- uid: Chobitech.JapaneseEraData.GetHashCode
+  name: GetHashCode()
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_GetHashCode
+  commentId: M:Chobitech.JapaneseEraData.GetHashCode
+  fullName: Chobitech.JapaneseEraData.GetHashCode()
+  nameWithType: JapaneseEraData.GetHashCode()
+- uid: Chobitech.JapaneseEraData.GetHashCode*
+  name: GetHashCode
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_GetHashCode_
+  commentId: Overload:Chobitech.JapaneseEraData.GetHashCode
+  isSpec: "True"
+  fullName: Chobitech.JapaneseEraData.GetHashCode
+  nameWithType: JapaneseEraData.GetHashCode
+- uid: Chobitech.JapaneseEraData.Month
+  name: Month
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_Month
+  commentId: P:Chobitech.JapaneseEraData.Month
+  fullName: Chobitech.JapaneseEraData.Month
+  nameWithType: JapaneseEraData.Month
+- uid: Chobitech.JapaneseEraData.Month*
+  name: Month
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_Month_
+  commentId: Overload:Chobitech.JapaneseEraData.Month
+  isSpec: "True"
+  fullName: Chobitech.JapaneseEraData.Month
+  nameWithType: JapaneseEraData.Month
+- uid: Chobitech.JapaneseEraData.StartDateTime
+  name: StartDateTime
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_StartDateTime
+  commentId: P:Chobitech.JapaneseEraData.StartDateTime
+  fullName: Chobitech.JapaneseEraData.StartDateTime
+  nameWithType: JapaneseEraData.StartDateTime
+- uid: Chobitech.JapaneseEraData.StartDateTime*
+  name: StartDateTime
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_StartDateTime_
+  commentId: Overload:Chobitech.JapaneseEraData.StartDateTime
+  isSpec: "True"
+  fullName: Chobitech.JapaneseEraData.StartDateTime
+  nameWithType: JapaneseEraData.StartDateTime
+- uid: Chobitech.JapaneseEraData.op_Equality(Chobitech.JapaneseEraData,Chobitech.JapaneseEraData)
+  name: operator ==(JapaneseEraData, JapaneseEraData)
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_op_Equality_Chobitech_JapaneseEraData_Chobitech_JapaneseEraData_
+  commentId: M:Chobitech.JapaneseEraData.op_Equality(Chobitech.JapaneseEraData,Chobitech.JapaneseEraData)
+  name.vb: =(JapaneseEraData, JapaneseEraData)
+  fullName: Chobitech.JapaneseEraData.operator ==(Chobitech.JapaneseEraData, Chobitech.JapaneseEraData)
+  fullName.vb: Chobitech.JapaneseEraData.=(Chobitech.JapaneseEraData, Chobitech.JapaneseEraData)
+  nameWithType: JapaneseEraData.operator ==(JapaneseEraData, JapaneseEraData)
+  nameWithType.vb: JapaneseEraData.=(JapaneseEraData, JapaneseEraData)
+- uid: Chobitech.JapaneseEraData.op_Equality*
+  name: operator ==
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_op_Equality_
+  commentId: Overload:Chobitech.JapaneseEraData.op_Equality
+  isSpec: "True"
+  name.vb: =
+  fullName: Chobitech.JapaneseEraData.operator ==
+  fullName.vb: Chobitech.JapaneseEraData.=
+  nameWithType: JapaneseEraData.operator ==
+  nameWithType.vb: JapaneseEraData.=
+- uid: Chobitech.JapaneseEraData.op_Inequality(Chobitech.JapaneseEraData,Chobitech.JapaneseEraData)
+  name: operator !=(JapaneseEraData, JapaneseEraData)
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_op_Inequality_Chobitech_JapaneseEraData_Chobitech_JapaneseEraData_
+  commentId: M:Chobitech.JapaneseEraData.op_Inequality(Chobitech.JapaneseEraData,Chobitech.JapaneseEraData)
+  name.vb: <>(JapaneseEraData, JapaneseEraData)
+  fullName: Chobitech.JapaneseEraData.operator !=(Chobitech.JapaneseEraData, Chobitech.JapaneseEraData)
+  fullName.vb: Chobitech.JapaneseEraData.<>(Chobitech.JapaneseEraData, Chobitech.JapaneseEraData)
+  nameWithType: JapaneseEraData.operator !=(JapaneseEraData, JapaneseEraData)
+  nameWithType.vb: JapaneseEraData.<>(JapaneseEraData, JapaneseEraData)
+- uid: Chobitech.JapaneseEraData.op_Inequality*
+  name: operator !=
+  href: api/Chobitech.JapaneseEraData.html#Chobitech_JapaneseEraData_op_Inequality_
+  commentId: Overload:Chobitech.JapaneseEraData.op_Inequality
+  isSpec: "True"
+  name.vb: <>
+  fullName: Chobitech.JapaneseEraData.operator !=
+  fullName.vb: Chobitech.JapaneseEraData.<>
+  nameWithType: JapaneseEraData.operator !=
+  nameWithType.vb: JapaneseEraData.<>
+- uid: Chobitech.JapaneseEraName
+  name: JapaneseEraName
+  href: api/Chobitech.JapaneseEraName.html
+  commentId: T:Chobitech.JapaneseEraName
+  fullName: Chobitech.JapaneseEraName
+  nameWithType: JapaneseEraName
+- uid: Chobitech.JapaneseEraName.Heisei
+  name: Heisei
+  href: api/Chobitech.JapaneseEraName.html#Chobitech_JapaneseEraName_Heisei
+  commentId: F:Chobitech.JapaneseEraName.Heisei
+  fullName: Chobitech.JapaneseEraName.Heisei
+  nameWithType: JapaneseEraName.Heisei
+- uid: Chobitech.JapaneseEraName.Meiji
+  name: Meiji
+  href: api/Chobitech.JapaneseEraName.html#Chobitech_JapaneseEraName_Meiji
+  commentId: F:Chobitech.JapaneseEraName.Meiji
+  fullName: Chobitech.JapaneseEraName.Meiji
+  nameWithType: JapaneseEraName.Meiji
+- uid: Chobitech.JapaneseEraName.None
+  name: None
+  href: api/Chobitech.JapaneseEraName.html#Chobitech_JapaneseEraName_None
+  commentId: F:Chobitech.JapaneseEraName.None
+  fullName: Chobitech.JapaneseEraName.None
+  nameWithType: JapaneseEraName.None
+- uid: Chobitech.JapaneseEraName.Reiwa
+  name: Reiwa
+  href: api/Chobitech.JapaneseEraName.html#Chobitech_JapaneseEraName_Reiwa
+  commentId: F:Chobitech.JapaneseEraName.Reiwa
+  fullName: Chobitech.JapaneseEraName.Reiwa
+  nameWithType: JapaneseEraName.Reiwa
+- uid: Chobitech.JapaneseEraName.Showa
+  name: Showa
+  href: api/Chobitech.JapaneseEraName.html#Chobitech_JapaneseEraName_Showa
+  commentId: F:Chobitech.JapaneseEraName.Showa
+  fullName: Chobitech.JapaneseEraName.Showa
+  nameWithType: JapaneseEraName.Showa
+- uid: Chobitech.JapaneseEraName.Taisho
+  name: Taisho
+  href: api/Chobitech.JapaneseEraName.html#Chobitech_JapaneseEraName_Taisho
+  commentId: F:Chobitech.JapaneseEraName.Taisho
+  fullName: Chobitech.JapaneseEraName.Taisho
+  nameWithType: JapaneseEraName.Taisho
+- uid: Chobitech.ListAndArrayUtils
+  name: ListAndArrayUtils
+  href: api/Chobitech.ListAndArrayUtils.html
+  commentId: T:Chobitech.ListAndArrayUtils
+  fullName: Chobitech.ListAndArrayUtils
+  nameWithType: ListAndArrayUtils
+- uid: Chobitech.ListAndArrayUtils.Exchange*
+  name: Exchange
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_Exchange_
+  commentId: Overload:Chobitech.ListAndArrayUtils.Exchange
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.Exchange
+  nameWithType: ListAndArrayUtils.Exchange
+- uid: Chobitech.ListAndArrayUtils.Exchange``1(System.Collections.Generic.IList{``0},System.Int32,System.Int32)
+  name: Exchange<T>(IList<T>, int, int)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_Exchange__1_System_Collections_Generic_IList___0__System_Int32_System_Int32_
+  commentId: M:Chobitech.ListAndArrayUtils.Exchange``1(System.Collections.Generic.IList{``0},System.Int32,System.Int32)
+  name.vb: Exchange(Of T)(IList(Of T), Integer, Integer)
+  fullName: Chobitech.ListAndArrayUtils.Exchange<T>(System.Collections.Generic.IList<T>, int, int)
+  fullName.vb: Chobitech.ListAndArrayUtils.Exchange(Of T)(System.Collections.Generic.IList(Of T), Integer, Integer)
+  nameWithType: ListAndArrayUtils.Exchange<T>(IList<T>, int, int)
+  nameWithType.vb: ListAndArrayUtils.Exchange(Of T)(IList(Of T), Integer, Integer)
+- uid: Chobitech.ListAndArrayUtils.Fold*
+  name: Fold
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_Fold_
+  commentId: Overload:Chobitech.ListAndArrayUtils.Fold
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.Fold
+  nameWithType: ListAndArrayUtils.Fold
+- uid: Chobitech.ListAndArrayUtils.FoldIndexed*
+  name: FoldIndexed
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_FoldIndexed_
+  commentId: Overload:Chobitech.ListAndArrayUtils.FoldIndexed
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.FoldIndexed
+  nameWithType: ListAndArrayUtils.FoldIndexed
+- uid: Chobitech.ListAndArrayUtils.FoldIndexed``2(System.Collections.Generic.IEnumerable{``0},``1,System.Func{``1,``0,System.Int32,``1})
+  name: FoldIndexed<T, R>(IEnumerable<T>, R, Func<R, T, int, R>)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_FoldIndexed__2_System_Collections_Generic_IEnumerable___0____1_System_Func___1___0_System_Int32___1__
+  commentId: M:Chobitech.ListAndArrayUtils.FoldIndexed``2(System.Collections.Generic.IEnumerable{``0},``1,System.Func{``1,``0,System.Int32,``1})
+  name.vb: FoldIndexed(Of T, R)(IEnumerable(Of T), R, Func(Of R, T, Integer, R))
+  fullName: Chobitech.ListAndArrayUtils.FoldIndexed<T, R>(System.Collections.Generic.IEnumerable<T>, R, System.Func<R, T, int, R>)
+  fullName.vb: Chobitech.ListAndArrayUtils.FoldIndexed(Of T, R)(System.Collections.Generic.IEnumerable(Of T), R, System.Func(Of R, T, Integer, R))
+  nameWithType: ListAndArrayUtils.FoldIndexed<T, R>(IEnumerable<T>, R, Func<R, T, int, R>)
+  nameWithType.vb: ListAndArrayUtils.FoldIndexed(Of T, R)(IEnumerable(Of T), R, Func(Of R, T, Integer, R))
+- uid: Chobitech.ListAndArrayUtils.Fold``2(System.Collections.Generic.IEnumerable{``0},``1,System.Func{``1,``0,``1})
+  name: Fold<T, R>(IEnumerable<T>, R, Func<R, T, R>)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_Fold__2_System_Collections_Generic_IEnumerable___0____1_System_Func___1___0___1__
+  commentId: M:Chobitech.ListAndArrayUtils.Fold``2(System.Collections.Generic.IEnumerable{``0},``1,System.Func{``1,``0,``1})
+  name.vb: Fold(Of T, R)(IEnumerable(Of T), R, Func(Of R, T, R))
+  fullName: Chobitech.ListAndArrayUtils.Fold<T, R>(System.Collections.Generic.IEnumerable<T>, R, System.Func<R, T, R>)
+  fullName.vb: Chobitech.ListAndArrayUtils.Fold(Of T, R)(System.Collections.Generic.IEnumerable(Of T), R, System.Func(Of R, T, R))
+  nameWithType: ListAndArrayUtils.Fold<T, R>(IEnumerable<T>, R, Func<R, T, R>)
+  nameWithType.vb: ListAndArrayUtils.Fold(Of T, R)(IEnumerable(Of T), R, Func(Of R, T, R))
+- uid: Chobitech.ListAndArrayUtils.ForeachIndexed*
+  name: ForeachIndexed
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_ForeachIndexed_
+  commentId: Overload:Chobitech.ListAndArrayUtils.ForeachIndexed
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.ForeachIndexed
+  nameWithType: ListAndArrayUtils.ForeachIndexed
+- uid: Chobitech.ListAndArrayUtils.ForeachIndexed``1(System.Collections.Generic.IEnumerable{``0},System.Action{``0,System.Int32})
+  name: ForeachIndexed<T>(IEnumerable<T>, Action<T, int>)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_ForeachIndexed__1_System_Collections_Generic_IEnumerable___0__System_Action___0_System_Int32__
+  commentId: M:Chobitech.ListAndArrayUtils.ForeachIndexed``1(System.Collections.Generic.IEnumerable{``0},System.Action{``0,System.Int32})
+  name.vb: ForeachIndexed(Of T)(IEnumerable(Of T), Action(Of T, Integer))
+  fullName: Chobitech.ListAndArrayUtils.ForeachIndexed<T>(System.Collections.Generic.IEnumerable<T>, System.Action<T, int>)
+  fullName.vb: Chobitech.ListAndArrayUtils.ForeachIndexed(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Action(Of T, Integer))
+  nameWithType: ListAndArrayUtils.ForeachIndexed<T>(IEnumerable<T>, Action<T, int>)
+  nameWithType.vb: ListAndArrayUtils.ForeachIndexed(Of T)(IEnumerable(Of T), Action(Of T, Integer))
+- uid: Chobitech.ListAndArrayUtils.GetIndexRange*
+  name: GetIndexRange
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_GetIndexRange_
+  commentId: Overload:Chobitech.ListAndArrayUtils.GetIndexRange
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.GetIndexRange
+  nameWithType: ListAndArrayUtils.GetIndexRange
+- uid: Chobitech.ListAndArrayUtils.GetIndexRange``1(System.Collections.Generic.IEnumerable{``0})
+  name: GetIndexRange<T>(IEnumerable<T>)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_GetIndexRange__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:Chobitech.ListAndArrayUtils.GetIndexRange``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: GetIndexRange(Of T)(IEnumerable(Of T))
+  fullName: Chobitech.ListAndArrayUtils.GetIndexRange<T>(System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: Chobitech.ListAndArrayUtils.GetIndexRange(Of T)(System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: ListAndArrayUtils.GetIndexRange<T>(IEnumerable<T>)
+  nameWithType.vb: ListAndArrayUtils.GetIndexRange(Of T)(IEnumerable(Of T))
+- uid: Chobitech.ListAndArrayUtils.GetIndices*
+  name: GetIndices
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_GetIndices_
+  commentId: Overload:Chobitech.ListAndArrayUtils.GetIndices
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.GetIndices
+  nameWithType: ListAndArrayUtils.GetIndices
+- uid: Chobitech.ListAndArrayUtils.GetIndices``1(System.Collections.Generic.IEnumerable{``0})
+  name: GetIndices<T>(IEnumerable<T>)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_GetIndices__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:Chobitech.ListAndArrayUtils.GetIndices``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: GetIndices(Of T)(IEnumerable(Of T))
+  fullName: Chobitech.ListAndArrayUtils.GetIndices<T>(System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: Chobitech.ListAndArrayUtils.GetIndices(Of T)(System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: ListAndArrayUtils.GetIndices<T>(IEnumerable<T>)
+  nameWithType.vb: ListAndArrayUtils.GetIndices(Of T)(IEnumerable(Of T))
+- uid: Chobitech.ListAndArrayUtils.IsNotEmpty*
+  name: IsNotEmpty
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_IsNotEmpty_
+  commentId: Overload:Chobitech.ListAndArrayUtils.IsNotEmpty
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.IsNotEmpty
+  nameWithType: ListAndArrayUtils.IsNotEmpty
+- uid: Chobitech.ListAndArrayUtils.IsNotEmpty``1(System.Collections.Generic.IEnumerable{``0})
+  name: IsNotEmpty<T>(IEnumerable<T>)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_IsNotEmpty__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:Chobitech.ListAndArrayUtils.IsNotEmpty``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: IsNotEmpty(Of T)(IEnumerable(Of T))
+  fullName: Chobitech.ListAndArrayUtils.IsNotEmpty<T>(System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: Chobitech.ListAndArrayUtils.IsNotEmpty(Of T)(System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: ListAndArrayUtils.IsNotEmpty<T>(IEnumerable<T>)
+  nameWithType.vb: ListAndArrayUtils.IsNotEmpty(Of T)(IEnumerable(Of T))
+- uid: Chobitech.ListAndArrayUtils.JoinToString*
+  name: JoinToString
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_JoinToString_
+  commentId: Overload:Chobitech.ListAndArrayUtils.JoinToString
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.JoinToString
+  nameWithType: ListAndArrayUtils.JoinToString
+- uid: Chobitech.ListAndArrayUtils.JoinToString``1(System.Collections.Generic.IEnumerable{``0},System.String,System.Func{``0,System.String})
+  name: JoinToString<T>(IEnumerable<T>, string, Func<T, string>?)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_JoinToString__1_System_Collections_Generic_IEnumerable___0__System_String_System_Func___0_System_String__
+  commentId: M:Chobitech.ListAndArrayUtils.JoinToString``1(System.Collections.Generic.IEnumerable{``0},System.String,System.Func{``0,System.String})
+  name.vb: JoinToString(Of T)(IEnumerable(Of T), String, Func(Of T, String))
+  fullName: Chobitech.ListAndArrayUtils.JoinToString<T>(System.Collections.Generic.IEnumerable<T>, string, System.Func<T, string>?)
+  fullName.vb: Chobitech.ListAndArrayUtils.JoinToString(Of T)(System.Collections.Generic.IEnumerable(Of T), String, System.Func(Of T, String))
+  nameWithType: ListAndArrayUtils.JoinToString<T>(IEnumerable<T>, string, Func<T, string>?)
+  nameWithType.vb: ListAndArrayUtils.JoinToString(Of T)(IEnumerable(Of T), String, Func(Of T, String))
+- uid: Chobitech.ListAndArrayUtils.LastIndex*
+  name: LastIndex
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_LastIndex_
+  commentId: Overload:Chobitech.ListAndArrayUtils.LastIndex
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.LastIndex
+  nameWithType: ListAndArrayUtils.LastIndex
+- uid: Chobitech.ListAndArrayUtils.LastIndex``1(System.Collections.Generic.IEnumerable{``0})
+  name: LastIndex<T>(IEnumerable<T>)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_LastIndex__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:Chobitech.ListAndArrayUtils.LastIndex``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: LastIndex(Of T)(IEnumerable(Of T))
+  fullName: Chobitech.ListAndArrayUtils.LastIndex<T>(System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: Chobitech.ListAndArrayUtils.LastIndex(Of T)(System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: ListAndArrayUtils.LastIndex<T>(IEnumerable<T>)
+  nameWithType.vb: ListAndArrayUtils.LastIndex(Of T)(IEnumerable(Of T))
+- uid: Chobitech.ListAndArrayUtils.Map*
+  name: Map
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_Map_
+  commentId: Overload:Chobitech.ListAndArrayUtils.Map
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.Map
+  nameWithType: ListAndArrayUtils.Map
+- uid: Chobitech.ListAndArrayUtils.MapIndexed*
+  name: MapIndexed
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_MapIndexed_
+  commentId: Overload:Chobitech.ListAndArrayUtils.MapIndexed
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.MapIndexed
+  nameWithType: ListAndArrayUtils.MapIndexed
+- uid: Chobitech.ListAndArrayUtils.MapIndexed``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int32,``1})
+  name: MapIndexed<T, R>(IEnumerable<T>, Func<T, int, R>)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_MapIndexed__2_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Int32___1__
+  commentId: M:Chobitech.ListAndArrayUtils.MapIndexed``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int32,``1})
+  name.vb: MapIndexed(Of T, R)(IEnumerable(Of T), Func(Of T, Integer, R))
+  fullName: Chobitech.ListAndArrayUtils.MapIndexed<T, R>(System.Collections.Generic.IEnumerable<T>, System.Func<T, int, R>)
+  fullName.vb: Chobitech.ListAndArrayUtils.MapIndexed(Of T, R)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, Integer, R))
+  nameWithType: ListAndArrayUtils.MapIndexed<T, R>(IEnumerable<T>, Func<T, int, R>)
+  nameWithType.vb: ListAndArrayUtils.MapIndexed(Of T, R)(IEnumerable(Of T), Func(Of T, Integer, R))
+- uid: Chobitech.ListAndArrayUtils.MapIndexed``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int32,``1},System.Boolean)
+  name: MapIndexed<T, R>(IEnumerable<T>, Func<T, int, R>, bool)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_MapIndexed__2_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Int32___1__System_Boolean_
+  commentId: M:Chobitech.ListAndArrayUtils.MapIndexed``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int32,``1},System.Boolean)
+  name.vb: MapIndexed(Of T, R)(IEnumerable(Of T), Func(Of T, Integer, R), Boolean)
+  fullName: Chobitech.ListAndArrayUtils.MapIndexed<T, R>(System.Collections.Generic.IEnumerable<T>, System.Func<T, int, R>, bool)
+  fullName.vb: Chobitech.ListAndArrayUtils.MapIndexed(Of T, R)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, Integer, R), Boolean)
+  nameWithType: ListAndArrayUtils.MapIndexed<T, R>(IEnumerable<T>, Func<T, int, R>, bool)
+  nameWithType.vb: ListAndArrayUtils.MapIndexed(Of T, R)(IEnumerable(Of T), Func(Of T, Integer, R), Boolean)
+- uid: Chobitech.ListAndArrayUtils.Map``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1})
+  name: Map<T, R>(IEnumerable<T>, Func<T, R>)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_Map__2_System_Collections_Generic_IEnumerable___0__System_Func___0___1__
+  commentId: M:Chobitech.ListAndArrayUtils.Map``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1})
+  name.vb: Map(Of T, R)(IEnumerable(Of T), Func(Of T, R))
+  fullName: Chobitech.ListAndArrayUtils.Map<T, R>(System.Collections.Generic.IEnumerable<T>, System.Func<T, R>)
+  fullName.vb: Chobitech.ListAndArrayUtils.Map(Of T, R)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, R))
+  nameWithType: ListAndArrayUtils.Map<T, R>(IEnumerable<T>, Func<T, R>)
+  nameWithType.vb: ListAndArrayUtils.Map(Of T, R)(IEnumerable(Of T), Func(Of T, R))
+- uid: Chobitech.ListAndArrayUtils.Map``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1},System.Boolean)
+  name: Map<T, R>(IEnumerable<T>, Func<T, R>, bool)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_Map__2_System_Collections_Generic_IEnumerable___0__System_Func___0___1__System_Boolean_
+  commentId: M:Chobitech.ListAndArrayUtils.Map``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1},System.Boolean)
+  name.vb: Map(Of T, R)(IEnumerable(Of T), Func(Of T, R), Boolean)
+  fullName: Chobitech.ListAndArrayUtils.Map<T, R>(System.Collections.Generic.IEnumerable<T>, System.Func<T, R>, bool)
+  fullName.vb: Chobitech.ListAndArrayUtils.Map(Of T, R)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, R), Boolean)
+  nameWithType: ListAndArrayUtils.Map<T, R>(IEnumerable<T>, Func<T, R>, bool)
+  nameWithType.vb: ListAndArrayUtils.Map(Of T, R)(IEnumerable(Of T), Func(Of T, R), Boolean)
+- uid: Chobitech.ListAndArrayUtils.MergeArrays*
+  name: MergeArrays
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_MergeArrays_
+  commentId: Overload:Chobitech.ListAndArrayUtils.MergeArrays
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.MergeArrays
+  nameWithType: ListAndArrayUtils.MergeArrays
+- uid: Chobitech.ListAndArrayUtils.MergeArrays``1(``0[][])
+  name: MergeArrays<T>(params T[][])
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_MergeArrays__1___0_____
+  commentId: M:Chobitech.ListAndArrayUtils.MergeArrays``1(``0[][])
+  name.vb: MergeArrays(Of T)(ParamArray T()())
+  fullName: Chobitech.ListAndArrayUtils.MergeArrays<T>(params T[][])
+  fullName.vb: Chobitech.ListAndArrayUtils.MergeArrays(Of T)(ParamArray T()())
+  nameWithType: ListAndArrayUtils.MergeArrays<T>(params T[][])
+  nameWithType.vb: ListAndArrayUtils.MergeArrays(Of T)(ParamArray T()())
+- uid: Chobitech.ListAndArrayUtils.MergeWith*
+  name: MergeWith
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_MergeWith_
+  commentId: Overload:Chobitech.ListAndArrayUtils.MergeWith
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.MergeWith
+  nameWithType: ListAndArrayUtils.MergeWith
+- uid: Chobitech.ListAndArrayUtils.MergeWith``1(``0[],``0[][])
+  name: MergeWith<T>(T[], params T[][])
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_MergeWith__1___0_____0_____
+  commentId: M:Chobitech.ListAndArrayUtils.MergeWith``1(``0[],``0[][])
+  name.vb: MergeWith(Of T)(T(), ParamArray T()())
+  fullName: Chobitech.ListAndArrayUtils.MergeWith<T>(T[], params T[][])
+  fullName.vb: Chobitech.ListAndArrayUtils.MergeWith(Of T)(T(), ParamArray T()())
+  nameWithType: ListAndArrayUtils.MergeWith<T>(T[], params T[][])
+  nameWithType.vb: ListAndArrayUtils.MergeWith(Of T)(T(), ParamArray T()())
+- uid: Chobitech.ListAndArrayUtils.Replace*
+  name: Replace
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_Replace_
+  commentId: Overload:Chobitech.ListAndArrayUtils.Replace
+  isSpec: "True"
+  fullName: Chobitech.ListAndArrayUtils.Replace
+  nameWithType: ListAndArrayUtils.Replace
+- uid: Chobitech.ListAndArrayUtils.Replace``1(System.Collections.Generic.IList{``0},System.Int32,``0)
+  name: Replace<T>(IList<T>, int, T)
+  href: api/Chobitech.ListAndArrayUtils.html#Chobitech_ListAndArrayUtils_Replace__1_System_Collections_Generic_IList___0__System_Int32___0_
+  commentId: M:Chobitech.ListAndArrayUtils.Replace``1(System.Collections.Generic.IList{``0},System.Int32,``0)
+  name.vb: Replace(Of T)(IList(Of T), Integer, T)
+  fullName: Chobitech.ListAndArrayUtils.Replace<T>(System.Collections.Generic.IList<T>, int, T)
+  fullName.vb: Chobitech.ListAndArrayUtils.Replace(Of T)(System.Collections.Generic.IList(Of T), Integer, T)
+  nameWithType: ListAndArrayUtils.Replace<T>(IList<T>, int, T)
+  nameWithType.vb: ListAndArrayUtils.Replace(Of T)(IList(Of T), Integer, T)
+- uid: Chobitech.NumericRange`1
+  name: NumericRange<T>
+  href: api/Chobitech.NumericRange-1.html
+  commentId: T:Chobitech.NumericRange`1
+  name.vb: NumericRange(Of T)
+  fullName: Chobitech.NumericRange<T>
+  fullName.vb: Chobitech.NumericRange(Of T)
+  nameWithType: NumericRange<T>
+  nameWithType.vb: NumericRange(Of T)
+- uid: Chobitech.NumericRange`1.#ctor(`0,`0)
+  name: NumericRange(T, T)
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1__ctor__0__0_
+  commentId: M:Chobitech.NumericRange`1.#ctor(`0,`0)
+  name.vb: New(T, T)
+  fullName: Chobitech.NumericRange<T>.NumericRange(T, T)
+  fullName.vb: Chobitech.NumericRange(Of T).New(T, T)
+  nameWithType: NumericRange<T>.NumericRange(T, T)
+  nameWithType.vb: NumericRange(Of T).New(T, T)
+- uid: Chobitech.NumericRange`1.#ctor*
+  name: NumericRange
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1__ctor_
+  commentId: Overload:Chobitech.NumericRange`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Chobitech.NumericRange<T>.NumericRange
+  fullName.vb: Chobitech.NumericRange(Of T).New
+  nameWithType: NumericRange<T>.NumericRange
+  nameWithType.vb: NumericRange(Of T).New
+- uid: Chobitech.NumericRange`1.CheckRange(`0,System.Boolean,System.Boolean)
+  name: CheckRange(T, bool, bool)
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_CheckRange__0_System_Boolean_System_Boolean_
+  commentId: M:Chobitech.NumericRange`1.CheckRange(`0,System.Boolean,System.Boolean)
+  name.vb: CheckRange(T, Boolean, Boolean)
+  fullName: Chobitech.NumericRange<T>.CheckRange(T, bool, bool)
+  fullName.vb: Chobitech.NumericRange(Of T).CheckRange(T, Boolean, Boolean)
+  nameWithType: NumericRange<T>.CheckRange(T, bool, bool)
+  nameWithType.vb: NumericRange(Of T).CheckRange(T, Boolean, Boolean)
+- uid: Chobitech.NumericRange`1.CheckRange*
+  name: CheckRange
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_CheckRange_
+  commentId: Overload:Chobitech.NumericRange`1.CheckRange
+  isSpec: "True"
+  fullName: Chobitech.NumericRange<T>.CheckRange
+  fullName.vb: Chobitech.NumericRange(Of T).CheckRange
+  nameWithType: NumericRange<T>.CheckRange
+  nameWithType.vb: NumericRange(Of T).CheckRange
+- uid: Chobitech.NumericRange`1.Equals(System.Object)
+  name: Equals(object?)
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_Equals_System_Object_
+  commentId: M:Chobitech.NumericRange`1.Equals(System.Object)
+  name.vb: Equals(Object)
+  fullName: Chobitech.NumericRange<T>.Equals(object?)
+  fullName.vb: Chobitech.NumericRange(Of T).Equals(Object)
+  nameWithType: NumericRange<T>.Equals(object?)
+  nameWithType.vb: NumericRange(Of T).Equals(Object)
+- uid: Chobitech.NumericRange`1.Equals*
+  name: Equals
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_Equals_
+  commentId: Overload:Chobitech.NumericRange`1.Equals
+  isSpec: "True"
+  fullName: Chobitech.NumericRange<T>.Equals
+  fullName.vb: Chobitech.NumericRange(Of T).Equals
+  nameWithType: NumericRange<T>.Equals
+  nameWithType.vb: NumericRange(Of T).Equals
+- uid: Chobitech.NumericRange`1.GetHashCode
+  name: GetHashCode()
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_GetHashCode
+  commentId: M:Chobitech.NumericRange`1.GetHashCode
+  fullName: Chobitech.NumericRange<T>.GetHashCode()
+  fullName.vb: Chobitech.NumericRange(Of T).GetHashCode()
+  nameWithType: NumericRange<T>.GetHashCode()
+  nameWithType.vb: NumericRange(Of T).GetHashCode()
+- uid: Chobitech.NumericRange`1.GetHashCode*
+  name: GetHashCode
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_GetHashCode_
+  commentId: Overload:Chobitech.NumericRange`1.GetHashCode
+  isSpec: "True"
+  fullName: Chobitech.NumericRange<T>.GetHashCode
+  fullName.vb: Chobitech.NumericRange(Of T).GetHashCode
+  nameWithType: NumericRange<T>.GetHashCode
+  nameWithType.vb: NumericRange(Of T).GetHashCode
+- uid: Chobitech.NumericRange`1.MaxValue
+  name: MaxValue
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_MaxValue
+  commentId: P:Chobitech.NumericRange`1.MaxValue
+  fullName: Chobitech.NumericRange<T>.MaxValue
+  fullName.vb: Chobitech.NumericRange(Of T).MaxValue
+  nameWithType: NumericRange<T>.MaxValue
+  nameWithType.vb: NumericRange(Of T).MaxValue
+- uid: Chobitech.NumericRange`1.MaxValue*
+  name: MaxValue
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_MaxValue_
+  commentId: Overload:Chobitech.NumericRange`1.MaxValue
+  isSpec: "True"
+  fullName: Chobitech.NumericRange<T>.MaxValue
+  fullName.vb: Chobitech.NumericRange(Of T).MaxValue
+  nameWithType: NumericRange<T>.MaxValue
+  nameWithType.vb: NumericRange(Of T).MaxValue
+- uid: Chobitech.NumericRange`1.MinValue
+  name: MinValue
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_MinValue
+  commentId: P:Chobitech.NumericRange`1.MinValue
+  fullName: Chobitech.NumericRange<T>.MinValue
+  fullName.vb: Chobitech.NumericRange(Of T).MinValue
+  nameWithType: NumericRange<T>.MinValue
+  nameWithType.vb: NumericRange(Of T).MinValue
+- uid: Chobitech.NumericRange`1.MinValue*
+  name: MinValue
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_MinValue_
+  commentId: Overload:Chobitech.NumericRange`1.MinValue
+  isSpec: "True"
+  fullName: Chobitech.NumericRange<T>.MinValue
+  fullName.vb: Chobitech.NumericRange(Of T).MinValue
+  nameWithType: NumericRange<T>.MinValue
+  nameWithType.vb: NumericRange(Of T).MinValue
+- uid: Chobitech.NumericRange`1.ToString
+  name: ToString()
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_ToString
+  commentId: M:Chobitech.NumericRange`1.ToString
+  fullName: Chobitech.NumericRange<T>.ToString()
+  fullName.vb: Chobitech.NumericRange(Of T).ToString()
+  nameWithType: NumericRange<T>.ToString()
+  nameWithType.vb: NumericRange(Of T).ToString()
+- uid: Chobitech.NumericRange`1.ToString*
+  name: ToString
+  href: api/Chobitech.NumericRange-1.html#Chobitech_NumericRange_1_ToString_
+  commentId: Overload:Chobitech.NumericRange`1.ToString
+  isSpec: "True"
+  fullName: Chobitech.NumericRange<T>.ToString
+  fullName.vb: Chobitech.NumericRange(Of T).ToString
+  nameWithType: NumericRange<T>.ToString
+  nameWithType.vb: NumericRange(Of T).ToString
+- uid: Chobitech.NumericUnit
+  name: NumericUnit
+  href: api/Chobitech.NumericUnit.html
+  commentId: T:Chobitech.NumericUnit
+  fullName: Chobitech.NumericUnit
+  nameWithType: NumericUnit
+- uid: Chobitech.NumericUnit.CountDigits(System.Numerics.BigInteger)
+  name: CountDigits(BigInteger)
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_CountDigits_System_Numerics_BigInteger_
+  commentId: M:Chobitech.NumericUnit.CountDigits(System.Numerics.BigInteger)
+  fullName: Chobitech.NumericUnit.CountDigits(System.Numerics.BigInteger)
+  nameWithType: NumericUnit.CountDigits(BigInteger)
+- uid: Chobitech.NumericUnit.CountDigits*
+  name: CountDigits
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_CountDigits_
+  commentId: Overload:Chobitech.NumericUnit.CountDigits
+  isSpec: "True"
+  fullName: Chobitech.NumericUnit.CountDigits
+  nameWithType: NumericUnit.CountDigits
+- uid: Chobitech.NumericUnit.GetBase10Exponent(System.Numerics.BigInteger)
+  name: GetBase10Exponent(BigInteger)
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetBase10Exponent_System_Numerics_BigInteger_
+  commentId: M:Chobitech.NumericUnit.GetBase10Exponent(System.Numerics.BigInteger)
+  fullName: Chobitech.NumericUnit.GetBase10Exponent(System.Numerics.BigInteger)
+  nameWithType: NumericUnit.GetBase10Exponent(BigInteger)
+- uid: Chobitech.NumericUnit.GetBase10Exponent*
+  name: GetBase10Exponent
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetBase10Exponent_
+  commentId: Overload:Chobitech.NumericUnit.GetBase10Exponent
+  isSpec: "True"
+  fullName: Chobitech.NumericUnit.GetBase10Exponent
+  nameWithType: NumericUnit.GetBase10Exponent
+- uid: Chobitech.NumericUnit.GetCeilingBigInteger(System.Numerics.BigInteger,System.Int32)
+  name: GetCeilingBigInteger(BigInteger, int)
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetCeilingBigInteger_System_Numerics_BigInteger_System_Int32_
+  commentId: M:Chobitech.NumericUnit.GetCeilingBigInteger(System.Numerics.BigInteger,System.Int32)
+  name.vb: GetCeilingBigInteger(BigInteger, Integer)
+  fullName: Chobitech.NumericUnit.GetCeilingBigInteger(System.Numerics.BigInteger, int)
+  fullName.vb: Chobitech.NumericUnit.GetCeilingBigInteger(System.Numerics.BigInteger, Integer)
+  nameWithType: NumericUnit.GetCeilingBigInteger(BigInteger, int)
+  nameWithType.vb: NumericUnit.GetCeilingBigInteger(BigInteger, Integer)
+- uid: Chobitech.NumericUnit.GetCeilingBigInteger*
+  name: GetCeilingBigInteger
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetCeilingBigInteger_
+  commentId: Overload:Chobitech.NumericUnit.GetCeilingBigInteger
+  isSpec: "True"
+  fullName: Chobitech.NumericUnit.GetCeilingBigInteger
+  nameWithType: NumericUnit.GetCeilingBigInteger
+- uid: Chobitech.NumericUnit.GetExponentialString(System.Numerics.BigInteger,System.Int32,System.Boolean)
+  name: GetExponentialString(BigInteger, int, bool)
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetExponentialString_System_Numerics_BigInteger_System_Int32_System_Boolean_
+  commentId: M:Chobitech.NumericUnit.GetExponentialString(System.Numerics.BigInteger,System.Int32,System.Boolean)
+  name.vb: GetExponentialString(BigInteger, Integer, Boolean)
+  fullName: Chobitech.NumericUnit.GetExponentialString(System.Numerics.BigInteger, int, bool)
+  fullName.vb: Chobitech.NumericUnit.GetExponentialString(System.Numerics.BigInteger, Integer, Boolean)
+  nameWithType: NumericUnit.GetExponentialString(BigInteger, int, bool)
+  nameWithType.vb: NumericUnit.GetExponentialString(BigInteger, Integer, Boolean)
+- uid: Chobitech.NumericUnit.GetExponentialString*
+  name: GetExponentialString
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetExponentialString_
+  commentId: Overload:Chobitech.NumericUnit.GetExponentialString
+  isSpec: "True"
+  fullName: Chobitech.NumericUnit.GetExponentialString
+  nameWithType: NumericUnit.GetExponentialString
+- uid: Chobitech.NumericUnit.GetFlooringBigInteger(System.Numerics.BigInteger,System.Int32)
+  name: GetFlooringBigInteger(BigInteger, int)
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetFlooringBigInteger_System_Numerics_BigInteger_System_Int32_
+  commentId: M:Chobitech.NumericUnit.GetFlooringBigInteger(System.Numerics.BigInteger,System.Int32)
+  name.vb: GetFlooringBigInteger(BigInteger, Integer)
+  fullName: Chobitech.NumericUnit.GetFlooringBigInteger(System.Numerics.BigInteger, int)
+  fullName.vb: Chobitech.NumericUnit.GetFlooringBigInteger(System.Numerics.BigInteger, Integer)
+  nameWithType: NumericUnit.GetFlooringBigInteger(BigInteger, int)
+  nameWithType.vb: NumericUnit.GetFlooringBigInteger(BigInteger, Integer)
+- uid: Chobitech.NumericUnit.GetFlooringBigInteger*
+  name: GetFlooringBigInteger
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetFlooringBigInteger_
+  commentId: Overload:Chobitech.NumericUnit.GetFlooringBigInteger
+  isSpec: "True"
+  fullName: Chobitech.NumericUnit.GetFlooringBigInteger
+  nameWithType: NumericUnit.GetFlooringBigInteger
+- uid: Chobitech.NumericUnit.GetJpNumberString(System.Numerics.BigInteger,System.Boolean)
+  name: GetJpNumberString(BigInteger, bool)
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetJpNumberString_System_Numerics_BigInteger_System_Boolean_
+  commentId: M:Chobitech.NumericUnit.GetJpNumberString(System.Numerics.BigInteger,System.Boolean)
+  name.vb: GetJpNumberString(BigInteger, Boolean)
+  fullName: Chobitech.NumericUnit.GetJpNumberString(System.Numerics.BigInteger, bool)
+  fullName.vb: Chobitech.NumericUnit.GetJpNumberString(System.Numerics.BigInteger, Boolean)
+  nameWithType: NumericUnit.GetJpNumberString(BigInteger, bool)
+  nameWithType.vb: NumericUnit.GetJpNumberString(BigInteger, Boolean)
+- uid: Chobitech.NumericUnit.GetJpNumberString*
+  name: GetJpNumberString
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetJpNumberString_
+  commentId: Overload:Chobitech.NumericUnit.GetJpNumberString
+  isSpec: "True"
+  fullName: Chobitech.NumericUnit.GetJpNumberString
+  nameWithType: NumericUnit.GetJpNumberString
+- uid: Chobitech.NumericUnit.GetRoundedBigInteger(System.Numerics.BigInteger,System.Int32)
+  name: GetRoundedBigInteger(BigInteger, int)
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetRoundedBigInteger_System_Numerics_BigInteger_System_Int32_
+  commentId: M:Chobitech.NumericUnit.GetRoundedBigInteger(System.Numerics.BigInteger,System.Int32)
+  name.vb: GetRoundedBigInteger(BigInteger, Integer)
+  fullName: Chobitech.NumericUnit.GetRoundedBigInteger(System.Numerics.BigInteger, int)
+  fullName.vb: Chobitech.NumericUnit.GetRoundedBigInteger(System.Numerics.BigInteger, Integer)
+  nameWithType: NumericUnit.GetRoundedBigInteger(BigInteger, int)
+  nameWithType.vb: NumericUnit.GetRoundedBigInteger(BigInteger, Integer)
+- uid: Chobitech.NumericUnit.GetRoundedBigInteger*
+  name: GetRoundedBigInteger
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetRoundedBigInteger_
+  commentId: Overload:Chobitech.NumericUnit.GetRoundedBigInteger
+  isSpec: "True"
+  fullName: Chobitech.NumericUnit.GetRoundedBigInteger
+  nameWithType: NumericUnit.GetRoundedBigInteger
+- uid: Chobitech.NumericUnit.GetSiUnitString(System.Numerics.BigInteger,System.Boolean)
+  name: GetSiUnitString(BigInteger, bool)
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetSiUnitString_System_Numerics_BigInteger_System_Boolean_
+  commentId: M:Chobitech.NumericUnit.GetSiUnitString(System.Numerics.BigInteger,System.Boolean)
+  name.vb: GetSiUnitString(BigInteger, Boolean)
+  fullName: Chobitech.NumericUnit.GetSiUnitString(System.Numerics.BigInteger, bool)
+  fullName.vb: Chobitech.NumericUnit.GetSiUnitString(System.Numerics.BigInteger, Boolean)
+  nameWithType: NumericUnit.GetSiUnitString(BigInteger, bool)
+  nameWithType.vb: NumericUnit.GetSiUnitString(BigInteger, Boolean)
+- uid: Chobitech.NumericUnit.GetSiUnitString*
+  name: GetSiUnitString
+  href: api/Chobitech.NumericUnit.html#Chobitech_NumericUnit_GetSiUnitString_
+  commentId: Overload:Chobitech.NumericUnit.GetSiUnitString
+  isSpec: "True"
+  fullName: Chobitech.NumericUnit.GetSiUnitString
+  nameWithType: NumericUnit.GetSiUnitString
+- uid: Chobitech.RandomString
+  name: RandomString
+  href: api/Chobitech.RandomString.html
+  commentId: T:Chobitech.RandomString
+  fullName: Chobitech.RandomString
+  nameWithType: RandomString
+- uid: Chobitech.RandomString.#ctor(System.Collections.Generic.IList{System.String},System.Random)
+  name: RandomString(IList<string>, Random?)
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString__ctor_System_Collections_Generic_IList_System_String__System_Random_
+  commentId: M:Chobitech.RandomString.#ctor(System.Collections.Generic.IList{System.String},System.Random)
+  name.vb: New(IList(Of String), Random)
+  fullName: Chobitech.RandomString.RandomString(System.Collections.Generic.IList<string>, System.Random?)
+  fullName.vb: Chobitech.RandomString.New(System.Collections.Generic.IList(Of String), System.Random)
+  nameWithType: RandomString.RandomString(IList<string>, Random?)
+  nameWithType.vb: RandomString.New(IList(Of String), Random)
+- uid: Chobitech.RandomString.#ctor(System.String,System.Random)
+  name: RandomString(string, Random?)
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString__ctor_System_String_System_Random_
+  commentId: M:Chobitech.RandomString.#ctor(System.String,System.Random)
+  name.vb: New(String, Random)
+  fullName: Chobitech.RandomString.RandomString(string, System.Random?)
+  fullName.vb: Chobitech.RandomString.New(String, System.Random)
+  nameWithType: RandomString.RandomString(string, Random?)
+  nameWithType.vb: RandomString.New(String, Random)
+- uid: Chobitech.RandomString.#ctor*
+  name: RandomString
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString__ctor_
+  commentId: Overload:Chobitech.RandomString.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Chobitech.RandomString.RandomString
+  fullName.vb: Chobitech.RandomString.New
+  nameWithType: RandomString.RandomString
+  nameWithType.vb: RandomString.New
+- uid: Chobitech.RandomString.GetCharDigitsRandomString(System.Random)
+  name: GetCharDigitsRandomString(Random?)
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetCharDigitsRandomString_System_Random_
+  commentId: M:Chobitech.RandomString.GetCharDigitsRandomString(System.Random)
+  name.vb: GetCharDigitsRandomString(Random)
+  fullName: Chobitech.RandomString.GetCharDigitsRandomString(System.Random?)
+  fullName.vb: Chobitech.RandomString.GetCharDigitsRandomString(System.Random)
+  nameWithType: RandomString.GetCharDigitsRandomString(Random?)
+  nameWithType.vb: RandomString.GetCharDigitsRandomString(Random)
+- uid: Chobitech.RandomString.GetCharDigitsRandomString*
+  name: GetCharDigitsRandomString
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetCharDigitsRandomString_
+  commentId: Overload:Chobitech.RandomString.GetCharDigitsRandomString
+  isSpec: "True"
+  fullName: Chobitech.RandomString.GetCharDigitsRandomString
+  nameWithType: RandomString.GetCharDigitsRandomString
+- uid: Chobitech.RandomString.GetDigitsOnlyRandomString(System.Random)
+  name: GetDigitsOnlyRandomString(Random?)
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetDigitsOnlyRandomString_System_Random_
+  commentId: M:Chobitech.RandomString.GetDigitsOnlyRandomString(System.Random)
+  name.vb: GetDigitsOnlyRandomString(Random)
+  fullName: Chobitech.RandomString.GetDigitsOnlyRandomString(System.Random?)
+  fullName.vb: Chobitech.RandomString.GetDigitsOnlyRandomString(System.Random)
+  nameWithType: RandomString.GetDigitsOnlyRandomString(Random?)
+  nameWithType.vb: RandomString.GetDigitsOnlyRandomString(Random)
+- uid: Chobitech.RandomString.GetDigitsOnlyRandomString*
+  name: GetDigitsOnlyRandomString
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetDigitsOnlyRandomString_
+  commentId: Overload:Chobitech.RandomString.GetDigitsOnlyRandomString
+  isSpec: "True"
+  fullName: Chobitech.RandomString.GetDigitsOnlyRandomString
+  nameWithType: RandomString.GetDigitsOnlyRandomString
+- uid: Chobitech.RandomString.GetHexRandomString(System.Random)
+  name: GetHexRandomString(Random?)
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetHexRandomString_System_Random_
+  commentId: M:Chobitech.RandomString.GetHexRandomString(System.Random)
+  name.vb: GetHexRandomString(Random)
+  fullName: Chobitech.RandomString.GetHexRandomString(System.Random?)
+  fullName.vb: Chobitech.RandomString.GetHexRandomString(System.Random)
+  nameWithType: RandomString.GetHexRandomString(Random?)
+  nameWithType.vb: RandomString.GetHexRandomString(Random)
+- uid: Chobitech.RandomString.GetHexRandomString*
+  name: GetHexRandomString
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetHexRandomString_
+  commentId: Overload:Chobitech.RandomString.GetHexRandomString
+  isSpec: "True"
+  fullName: Chobitech.RandomString.GetHexRandomString
+  nameWithType: RandomString.GetHexRandomString
+- uid: Chobitech.RandomString.GetLowerCharDigitsRandomString(System.Random)
+  name: GetLowerCharDigitsRandomString(Random?)
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetLowerCharDigitsRandomString_System_Random_
+  commentId: M:Chobitech.RandomString.GetLowerCharDigitsRandomString(System.Random)
+  name.vb: GetLowerCharDigitsRandomString(Random)
+  fullName: Chobitech.RandomString.GetLowerCharDigitsRandomString(System.Random?)
+  fullName.vb: Chobitech.RandomString.GetLowerCharDigitsRandomString(System.Random)
+  nameWithType: RandomString.GetLowerCharDigitsRandomString(Random?)
+  nameWithType.vb: RandomString.GetLowerCharDigitsRandomString(Random)
+- uid: Chobitech.RandomString.GetLowerCharDigitsRandomString*
+  name: GetLowerCharDigitsRandomString
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetLowerCharDigitsRandomString_
+  commentId: Overload:Chobitech.RandomString.GetLowerCharDigitsRandomString
+  isSpec: "True"
+  fullName: Chobitech.RandomString.GetLowerCharDigitsRandomString
+  nameWithType: RandomString.GetLowerCharDigitsRandomString
+- uid: Chobitech.RandomString.GetLowerHexRandomString(System.Random)
+  name: GetLowerHexRandomString(Random?)
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetLowerHexRandomString_System_Random_
+  commentId: M:Chobitech.RandomString.GetLowerHexRandomString(System.Random)
+  name.vb: GetLowerHexRandomString(Random)
+  fullName: Chobitech.RandomString.GetLowerHexRandomString(System.Random?)
+  fullName.vb: Chobitech.RandomString.GetLowerHexRandomString(System.Random)
+  nameWithType: RandomString.GetLowerHexRandomString(Random?)
+  nameWithType.vb: RandomString.GetLowerHexRandomString(Random)
+- uid: Chobitech.RandomString.GetLowerHexRandomString*
+  name: GetLowerHexRandomString
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetLowerHexRandomString_
+  commentId: Overload:Chobitech.RandomString.GetLowerHexRandomString
+  isSpec: "True"
+  fullName: Chobitech.RandomString.GetLowerHexRandomString
+  nameWithType: RandomString.GetLowerHexRandomString
+- uid: Chobitech.RandomString.GetRandomString(System.Int32,System.Boolean)
+  name: GetRandomString(int, bool)
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetRandomString_System_Int32_System_Boolean_
+  commentId: M:Chobitech.RandomString.GetRandomString(System.Int32,System.Boolean)
+  name.vb: GetRandomString(Integer, Boolean)
+  fullName: Chobitech.RandomString.GetRandomString(int, bool)
+  fullName.vb: Chobitech.RandomString.GetRandomString(Integer, Boolean)
+  nameWithType: RandomString.GetRandomString(int, bool)
+  nameWithType.vb: RandomString.GetRandomString(Integer, Boolean)
+- uid: Chobitech.RandomString.GetRandomString*
+  name: GetRandomString
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetRandomString_
+  commentId: Overload:Chobitech.RandomString.GetRandomString
+  isSpec: "True"
+  fullName: Chobitech.RandomString.GetRandomString
+  nameWithType: RandomString.GetRandomString
+- uid: Chobitech.RandomString.GetUpperCharDigitsRandomString(System.Random)
+  name: GetUpperCharDigitsRandomString(Random?)
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetUpperCharDigitsRandomString_System_Random_
+  commentId: M:Chobitech.RandomString.GetUpperCharDigitsRandomString(System.Random)
+  name.vb: GetUpperCharDigitsRandomString(Random)
+  fullName: Chobitech.RandomString.GetUpperCharDigitsRandomString(System.Random?)
+  fullName.vb: Chobitech.RandomString.GetUpperCharDigitsRandomString(System.Random)
+  nameWithType: RandomString.GetUpperCharDigitsRandomString(Random?)
+  nameWithType.vb: RandomString.GetUpperCharDigitsRandomString(Random)
+- uid: Chobitech.RandomString.GetUpperCharDigitsRandomString*
+  name: GetUpperCharDigitsRandomString
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetUpperCharDigitsRandomString_
+  commentId: Overload:Chobitech.RandomString.GetUpperCharDigitsRandomString
+  isSpec: "True"
+  fullName: Chobitech.RandomString.GetUpperCharDigitsRandomString
+  nameWithType: RandomString.GetUpperCharDigitsRandomString
+- uid: Chobitech.RandomString.GetUpperHexRandomString(System.Random)
+  name: GetUpperHexRandomString(Random?)
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetUpperHexRandomString_System_Random_
+  commentId: M:Chobitech.RandomString.GetUpperHexRandomString(System.Random)
+  name.vb: GetUpperHexRandomString(Random)
+  fullName: Chobitech.RandomString.GetUpperHexRandomString(System.Random?)
+  fullName.vb: Chobitech.RandomString.GetUpperHexRandomString(System.Random)
+  nameWithType: RandomString.GetUpperHexRandomString(Random?)
+  nameWithType.vb: RandomString.GetUpperHexRandomString(Random)
+- uid: Chobitech.RandomString.GetUpperHexRandomString*
+  name: GetUpperHexRandomString
+  href: api/Chobitech.RandomString.html#Chobitech_RandomString_GetUpperHexRandomString_
+  commentId: Overload:Chobitech.RandomString.GetUpperHexRandomString
+  isSpec: "True"
+  fullName: Chobitech.RandomString.GetUpperHexRandomString
+  nameWithType: RandomString.GetUpperHexRandomString
+- uid: Chobitech.Randomize`1
+  name: Randomize<T>
+  href: api/Chobitech.Randomize-1.html
+  commentId: T:Chobitech.Randomize`1
+  name.vb: Randomize(Of T)
+  fullName: Chobitech.Randomize<T>
+  fullName.vb: Chobitech.Randomize(Of T)
+  nameWithType: Randomize<T>
+  nameWithType.vb: Randomize(Of T)
+- uid: Chobitech.Randomize`1.#ctor(System.Collections.Generic.IList{`0},System.Random)
+  name: Randomize(IList<T>, Random?)
+  href: api/Chobitech.Randomize-1.html#Chobitech_Randomize_1__ctor_System_Collections_Generic_IList__0__System_Random_
+  commentId: M:Chobitech.Randomize`1.#ctor(System.Collections.Generic.IList{`0},System.Random)
+  name.vb: New(IList(Of T), Random)
+  fullName: Chobitech.Randomize<T>.Randomize(System.Collections.Generic.IList<T>, System.Random?)
+  fullName.vb: Chobitech.Randomize(Of T).New(System.Collections.Generic.IList(Of T), System.Random)
+  nameWithType: Randomize<T>.Randomize(IList<T>, Random?)
+  nameWithType.vb: Randomize(Of T).New(IList(Of T), Random)
+- uid: Chobitech.Randomize`1.#ctor*
+  name: Randomize
+  href: api/Chobitech.Randomize-1.html#Chobitech_Randomize_1__ctor_
+  commentId: Overload:Chobitech.Randomize`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Chobitech.Randomize<T>.Randomize
+  fullName.vb: Chobitech.Randomize(Of T).New
+  nameWithType: Randomize<T>.Randomize
+  nameWithType.vb: Randomize(Of T).New
+- uid: Chobitech.Randomize`1.GetRandomList(System.Int32,System.Boolean)
+  name: GetRandomList(int, bool)
+  href: api/Chobitech.Randomize-1.html#Chobitech_Randomize_1_GetRandomList_System_Int32_System_Boolean_
+  commentId: M:Chobitech.Randomize`1.GetRandomList(System.Int32,System.Boolean)
+  name.vb: GetRandomList(Integer, Boolean)
+  fullName: Chobitech.Randomize<T>.GetRandomList(int, bool)
+  fullName.vb: Chobitech.Randomize(Of T).GetRandomList(Integer, Boolean)
+  nameWithType: Randomize<T>.GetRandomList(int, bool)
+  nameWithType.vb: Randomize(Of T).GetRandomList(Integer, Boolean)
+- uid: Chobitech.Randomize`1.GetRandomList*
+  name: GetRandomList
+  href: api/Chobitech.Randomize-1.html#Chobitech_Randomize_1_GetRandomList_
+  commentId: Overload:Chobitech.Randomize`1.GetRandomList
+  isSpec: "True"
+  fullName: Chobitech.Randomize<T>.GetRandomList
+  fullName.vb: Chobitech.Randomize(Of T).GetRandomList
+  nameWithType: Randomize<T>.GetRandomList
+  nameWithType.vb: Randomize(Of T).GetRandomList
+- uid: Chobitech.Randomize`1.Next
+  name: Next()
+  href: api/Chobitech.Randomize-1.html#Chobitech_Randomize_1_Next
+  commentId: M:Chobitech.Randomize`1.Next
+  fullName: Chobitech.Randomize<T>.Next()
+  fullName.vb: Chobitech.Randomize(Of T).Next()
+  nameWithType: Randomize<T>.Next()
+  nameWithType.vb: Randomize(Of T).Next()
+- uid: Chobitech.Randomize`1.Next*
+  name: Next
+  href: api/Chobitech.Randomize-1.html#Chobitech_Randomize_1_Next_
+  commentId: Overload:Chobitech.Randomize`1.Next
+  isSpec: "True"
+  fullName: Chobitech.Randomize<T>.Next
+  fullName.vb: Chobitech.Randomize(Of T).Next
+  nameWithType: Randomize<T>.Next
+  nameWithType.vb: Randomize(Of T).Next
+- uid: Chobitech.Randomize`1.Seeds
+  name: Seeds
+  href: api/Chobitech.Randomize-1.html#Chobitech_Randomize_1_Seeds
+  commentId: P:Chobitech.Randomize`1.Seeds
+  fullName: Chobitech.Randomize<T>.Seeds
+  fullName.vb: Chobitech.Randomize(Of T).Seeds
+  nameWithType: Randomize<T>.Seeds
+  nameWithType.vb: Randomize(Of T).Seeds
+- uid: Chobitech.Randomize`1.Seeds*
+  name: Seeds
+  href: api/Chobitech.Randomize-1.html#Chobitech_Randomize_1_Seeds_
+  commentId: Overload:Chobitech.Randomize`1.Seeds
+  isSpec: "True"
+  fullName: Chobitech.Randomize<T>.Seeds
+  fullName.vb: Chobitech.Randomize(Of T).Seeds
+  nameWithType: Randomize<T>.Seeds
+  nameWithType.vb: Randomize(Of T).Seeds
+- uid: Chobitech.RangeCompareResult
+  name: RangeCompareResult
+  href: api/Chobitech.RangeCompareResult.html
+  commentId: T:Chobitech.RangeCompareResult
+  fullName: Chobitech.RangeCompareResult
+  nameWithType: RangeCompareResult
+- uid: Chobitech.RangeCompareResult.AboveMax
+  name: AboveMax
+  href: api/Chobitech.RangeCompareResult.html#Chobitech_RangeCompareResult_AboveMax
+  commentId: F:Chobitech.RangeCompareResult.AboveMax
+  fullName: Chobitech.RangeCompareResult.AboveMax
+  nameWithType: RangeCompareResult.AboveMax
+- uid: Chobitech.RangeCompareResult.BelowMin
+  name: BelowMin
+  href: api/Chobitech.RangeCompareResult.html#Chobitech_RangeCompareResult_BelowMin
+  commentId: F:Chobitech.RangeCompareResult.BelowMin
+  fullName: Chobitech.RangeCompareResult.BelowMin
+  nameWithType: RangeCompareResult.BelowMin
+- uid: Chobitech.RangeCompareResult.Contains
+  name: Contains
+  href: api/Chobitech.RangeCompareResult.html#Chobitech_RangeCompareResult_Contains
+  commentId: F:Chobitech.RangeCompareResult.Contains
+  fullName: Chobitech.RangeCompareResult.Contains
+  nameWithType: RangeCompareResult.Contains
+- uid: Chobitech.Security
+  name: Chobitech.Security
+  href: api/Chobitech.Security.html
+  commentId: N:Chobitech.Security
+  fullName: Chobitech.Security
+  nameWithType: Chobitech.Security
+- uid: Chobitech.Security.ChobiAES
+  name: ChobiAES
+  href: api/Chobitech.Security.ChobiAES.html
+  commentId: T:Chobitech.Security.ChobiAES
+  fullName: Chobitech.Security.ChobiAES
+  nameWithType: ChobiAES
+- uid: Chobitech.Security.ChobiAES.#ctor(System.Byte[],System.Byte[])
+  name: ChobiAES(byte[]?, byte[]?)
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES__ctor_System_Byte___System_Byte___
+  commentId: M:Chobitech.Security.ChobiAES.#ctor(System.Byte[],System.Byte[])
+  name.vb: New(Byte(), Byte())
+  fullName: Chobitech.Security.ChobiAES.ChobiAES(byte[]?, byte[]?)
+  fullName.vb: Chobitech.Security.ChobiAES.New(Byte(), Byte())
+  nameWithType: ChobiAES.ChobiAES(byte[]?, byte[]?)
+  nameWithType.vb: ChobiAES.New(Byte(), Byte())
+- uid: Chobitech.Security.ChobiAES.#ctor*
+  name: ChobiAES
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES__ctor_
+  commentId: Overload:Chobitech.Security.ChobiAES.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Chobitech.Security.ChobiAES.ChobiAES
+  fullName.vb: Chobitech.Security.ChobiAES.New
+  nameWithType: ChobiAES.ChobiAES
+  nameWithType.vb: ChobiAES.New
+- uid: Chobitech.Security.ChobiAES.Decrypt(System.Byte[],System.Byte[],System.Byte[])
+  name: Decrypt(byte[], byte[], byte[])
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_Decrypt_System_Byte___System_Byte___System_Byte___
+  commentId: M:Chobitech.Security.ChobiAES.Decrypt(System.Byte[],System.Byte[],System.Byte[])
+  name.vb: Decrypt(Byte(), Byte(), Byte())
+  fullName: Chobitech.Security.ChobiAES.Decrypt(byte[], byte[], byte[])
+  fullName.vb: Chobitech.Security.ChobiAES.Decrypt(Byte(), Byte(), Byte())
+  nameWithType: ChobiAES.Decrypt(byte[], byte[], byte[])
+  nameWithType.vb: ChobiAES.Decrypt(Byte(), Byte(), Byte())
+- uid: Chobitech.Security.ChobiAES.Decrypt(System.String,System.Byte[],System.Byte[])
+  name: Decrypt(string, byte[], byte[])
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_Decrypt_System_String_System_Byte___System_Byte___
+  commentId: M:Chobitech.Security.ChobiAES.Decrypt(System.String,System.Byte[],System.Byte[])
+  name.vb: Decrypt(String, Byte(), Byte())
+  fullName: Chobitech.Security.ChobiAES.Decrypt(string, byte[], byte[])
+  fullName.vb: Chobitech.Security.ChobiAES.Decrypt(String, Byte(), Byte())
+  nameWithType: ChobiAES.Decrypt(string, byte[], byte[])
+  nameWithType.vb: ChobiAES.Decrypt(String, Byte(), Byte())
+- uid: Chobitech.Security.ChobiAES.Decrypt*
+  name: Decrypt
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_Decrypt_
+  commentId: Overload:Chobitech.Security.ChobiAES.Decrypt
+  isSpec: "True"
+  fullName: Chobitech.Security.ChobiAES.Decrypt
+  nameWithType: ChobiAES.Decrypt
+- uid: Chobitech.Security.ChobiAES.Encrypt(System.Byte[],System.Byte[],System.Byte[])
+  name: Encrypt(byte[], byte[], byte[])
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_Encrypt_System_Byte___System_Byte___System_Byte___
+  commentId: M:Chobitech.Security.ChobiAES.Encrypt(System.Byte[],System.Byte[],System.Byte[])
+  name.vb: Encrypt(Byte(), Byte(), Byte())
+  fullName: Chobitech.Security.ChobiAES.Encrypt(byte[], byte[], byte[])
+  fullName.vb: Chobitech.Security.ChobiAES.Encrypt(Byte(), Byte(), Byte())
+  nameWithType: ChobiAES.Encrypt(byte[], byte[], byte[])
+  nameWithType.vb: ChobiAES.Encrypt(Byte(), Byte(), Byte())
+- uid: Chobitech.Security.ChobiAES.Encrypt(System.String,System.Byte[],System.Byte[])
+  name: Encrypt(string, byte[], byte[])
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_Encrypt_System_String_System_Byte___System_Byte___
+  commentId: M:Chobitech.Security.ChobiAES.Encrypt(System.String,System.Byte[],System.Byte[])
+  name.vb: Encrypt(String, Byte(), Byte())
+  fullName: Chobitech.Security.ChobiAES.Encrypt(string, byte[], byte[])
+  fullName.vb: Chobitech.Security.ChobiAES.Encrypt(String, Byte(), Byte())
+  nameWithType: ChobiAES.Encrypt(string, byte[], byte[])
+  nameWithType.vb: ChobiAES.Encrypt(String, Byte(), Byte())
+- uid: Chobitech.Security.ChobiAES.Encrypt*
+  name: Encrypt
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_Encrypt_
+  commentId: Overload:Chobitech.Security.ChobiAES.Encrypt
+  isSpec: "True"
+  fullName: Chobitech.Security.ChobiAES.Encrypt
+  nameWithType: ChobiAES.Encrypt
+- uid: Chobitech.Security.ChobiAES.IV
+  name: IV
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_IV
+  commentId: P:Chobitech.Security.ChobiAES.IV
+  fullName: Chobitech.Security.ChobiAES.IV
+  nameWithType: ChobiAES.IV
+- uid: Chobitech.Security.ChobiAES.IV*
+  name: IV
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_IV_
+  commentId: Overload:Chobitech.Security.ChobiAES.IV
+  isSpec: "True"
+  fullName: Chobitech.Security.ChobiAES.IV
+  nameWithType: ChobiAES.IV
+- uid: Chobitech.Security.ChobiAES.IvByteSize
+  name: IvByteSize
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_IvByteSize
+  commentId: F:Chobitech.Security.ChobiAES.IvByteSize
+  fullName: Chobitech.Security.ChobiAES.IvByteSize
+  nameWithType: ChobiAES.IvByteSize
+- uid: Chobitech.Security.ChobiAES.Key
+  name: Key
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_Key
+  commentId: P:Chobitech.Security.ChobiAES.Key
+  fullName: Chobitech.Security.ChobiAES.Key
+  nameWithType: ChobiAES.Key
+- uid: Chobitech.Security.ChobiAES.Key*
+  name: Key
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_Key_
+  commentId: Overload:Chobitech.Security.ChobiAES.Key
+  isSpec: "True"
+  fullName: Chobitech.Security.ChobiAES.Key
+  nameWithType: ChobiAES.Key
+- uid: Chobitech.Security.ChobiAES.KeyByteSize
+  name: KeyByteSize
+  href: api/Chobitech.Security.ChobiAES.html#Chobitech_Security_ChobiAES_KeyByteSize
+  commentId: F:Chobitech.Security.ChobiAES.KeyByteSize
+  fullName: Chobitech.Security.ChobiAES.KeyByteSize
+  nameWithType: ChobiAES.KeyByteSize
+- uid: Chobitech.Security.ChobiHash
+  name: ChobiHash
+  href: api/Chobitech.Security.ChobiHash.html
+  commentId: T:Chobitech.Security.ChobiHash
+  fullName: Chobitech.Security.ChobiHash
+  nameWithType: ChobiHash
+- uid: Chobitech.Security.ChobiHash.#ctor(System.Byte[])
+  name: ChobiHash(byte[]?)
+  href: api/Chobitech.Security.ChobiHash.html#Chobitech_Security_ChobiHash__ctor_System_Byte___
+  commentId: M:Chobitech.Security.ChobiHash.#ctor(System.Byte[])
+  name.vb: New(Byte())
+  fullName: Chobitech.Security.ChobiHash.ChobiHash(byte[]?)
+  fullName.vb: Chobitech.Security.ChobiHash.New(Byte())
+  nameWithType: ChobiHash.ChobiHash(byte[]?)
+  nameWithType.vb: ChobiHash.New(Byte())
+- uid: Chobitech.Security.ChobiHash.#ctor(System.Int32)
+  name: ChobiHash(int)
+  href: api/Chobitech.Security.ChobiHash.html#Chobitech_Security_ChobiHash__ctor_System_Int32_
+  commentId: M:Chobitech.Security.ChobiHash.#ctor(System.Int32)
+  name.vb: New(Integer)
+  fullName: Chobitech.Security.ChobiHash.ChobiHash(int)
+  fullName.vb: Chobitech.Security.ChobiHash.New(Integer)
+  nameWithType: ChobiHash.ChobiHash(int)
+  nameWithType.vb: ChobiHash.New(Integer)
+- uid: Chobitech.Security.ChobiHash.#ctor*
+  name: ChobiHash
+  href: api/Chobitech.Security.ChobiHash.html#Chobitech_Security_ChobiHash__ctor_
+  commentId: Overload:Chobitech.Security.ChobiHash.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Chobitech.Security.ChobiHash.ChobiHash
+  fullName.vb: Chobitech.Security.ChobiHash.New
+  nameWithType: ChobiHash.ChobiHash
+  nameWithType.vb: ChobiHash.New
+- uid: Chobitech.Security.ChobiHash.CalcHash(System.Byte[])
+  name: CalcHash(byte[])
+  href: api/Chobitech.Security.ChobiHash.html#Chobitech_Security_ChobiHash_CalcHash_System_Byte___
+  commentId: M:Chobitech.Security.ChobiHash.CalcHash(System.Byte[])
+  name.vb: CalcHash(Byte())
+  fullName: Chobitech.Security.ChobiHash.CalcHash(byte[])
+  fullName.vb: Chobitech.Security.ChobiHash.CalcHash(Byte())
+  nameWithType: ChobiHash.CalcHash(byte[])
+  nameWithType.vb: ChobiHash.CalcHash(Byte())
+- uid: Chobitech.Security.ChobiHash.CalcHash*
+  name: CalcHash
+  href: api/Chobitech.Security.ChobiHash.html#Chobitech_Security_ChobiHash_CalcHash_
+  commentId: Overload:Chobitech.Security.ChobiHash.CalcHash
+  isSpec: "True"
+  fullName: Chobitech.Security.ChobiHash.CalcHash
+  nameWithType: ChobiHash.CalcHash
+- uid: Chobitech.Security.ChobiHash.CompareHash(System.Byte[],System.Byte[])
+  name: CompareHash(byte[], byte[])
+  href: api/Chobitech.Security.ChobiHash.html#Chobitech_Security_ChobiHash_CompareHash_System_Byte___System_Byte___
+  commentId: M:Chobitech.Security.ChobiHash.CompareHash(System.Byte[],System.Byte[])
+  name.vb: CompareHash(Byte(), Byte())
+  fullName: Chobitech.Security.ChobiHash.CompareHash(byte[], byte[])
+  fullName.vb: Chobitech.Security.ChobiHash.CompareHash(Byte(), Byte())
+  nameWithType: ChobiHash.CompareHash(byte[], byte[])
+  nameWithType.vb: ChobiHash.CompareHash(Byte(), Byte())
+- uid: Chobitech.Security.ChobiHash.CompareHash*
+  name: CompareHash
+  href: api/Chobitech.Security.ChobiHash.html#Chobitech_Security_ChobiHash_CompareHash_
+  commentId: Overload:Chobitech.Security.ChobiHash.CompareHash
+  isSpec: "True"
+  fullName: Chobitech.Security.ChobiHash.CompareHash
+  nameWithType: ChobiHash.CompareHash
+- uid: Chobitech.Security.ChobiHash.DefaultKeySize
+  name: DefaultKeySize
+  href: api/Chobitech.Security.ChobiHash.html#Chobitech_Security_ChobiHash_DefaultKeySize
+  commentId: F:Chobitech.Security.ChobiHash.DefaultKeySize
+  fullName: Chobitech.Security.ChobiHash.DefaultKeySize
+  nameWithType: ChobiHash.DefaultKeySize
+- uid: Chobitech.Security.ChobiHash.GenerateRandomKey(System.Int32)
+  name: GenerateRandomKey(int)
+  href: api/Chobitech.Security.ChobiHash.html#Chobitech_Security_ChobiHash_GenerateRandomKey_System_Int32_
+  commentId: M:Chobitech.Security.ChobiHash.GenerateRandomKey(System.Int32)
+  name.vb: GenerateRandomKey(Integer)
+  fullName: Chobitech.Security.ChobiHash.GenerateRandomKey(int)
+  fullName.vb: Chobitech.Security.ChobiHash.GenerateRandomKey(Integer)
+  nameWithType: ChobiHash.GenerateRandomKey(int)
+  nameWithType.vb: ChobiHash.GenerateRandomKey(Integer)
+- uid: Chobitech.Security.ChobiHash.GenerateRandomKey*
+  name: GenerateRandomKey
+  href: api/Chobitech.Security.ChobiHash.html#Chobitech_Security_ChobiHash_GenerateRandomKey_
+  commentId: Overload:Chobitech.Security.ChobiHash.GenerateRandomKey
+  isSpec: "True"
+  fullName: Chobitech.Security.ChobiHash.GenerateRandomKey
+  nameWithType: ChobiHash.GenerateRandomKey
+- uid: Chobitech.ValueRangeExtensions
+  name: ValueRangeExtensions
+  href: api/Chobitech.ValueRangeExtensions.html
+  commentId: T:Chobitech.ValueRangeExtensions
+  fullName: Chobitech.ValueRangeExtensions
+  nameWithType: ValueRangeExtensions
+- uid: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Byte})
+  name: GetValueGap(ValueRange<byte>)
+  href: api/Chobitech.ValueRangeExtensions.html#Chobitech_ValueRangeExtensions_GetValueGap_Chobitech_ValueRange_System_Byte__
+  commentId: M:Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Byte})
+  name.vb: GetValueGap(ValueRange(Of Byte))
+  fullName: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange<byte>)
+  fullName.vb: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange(Of Byte))
+  nameWithType: ValueRangeExtensions.GetValueGap(ValueRange<byte>)
+  nameWithType.vb: ValueRangeExtensions.GetValueGap(ValueRange(Of Byte))
+- uid: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Decimal})
+  name: GetValueGap(ValueRange<decimal>)
+  href: api/Chobitech.ValueRangeExtensions.html#Chobitech_ValueRangeExtensions_GetValueGap_Chobitech_ValueRange_System_Decimal__
+  commentId: M:Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Decimal})
+  name.vb: GetValueGap(ValueRange(Of Decimal))
+  fullName: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange<decimal>)
+  fullName.vb: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange(Of Decimal))
+  nameWithType: ValueRangeExtensions.GetValueGap(ValueRange<decimal>)
+  nameWithType.vb: ValueRangeExtensions.GetValueGap(ValueRange(Of Decimal))
+- uid: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Double})
+  name: GetValueGap(ValueRange<double>)
+  href: api/Chobitech.ValueRangeExtensions.html#Chobitech_ValueRangeExtensions_GetValueGap_Chobitech_ValueRange_System_Double__
+  commentId: M:Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Double})
+  name.vb: GetValueGap(ValueRange(Of Double))
+  fullName: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange<double>)
+  fullName.vb: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange(Of Double))
+  nameWithType: ValueRangeExtensions.GetValueGap(ValueRange<double>)
+  nameWithType.vb: ValueRangeExtensions.GetValueGap(ValueRange(Of Double))
+- uid: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Int16})
+  name: GetValueGap(ValueRange<short>)
+  href: api/Chobitech.ValueRangeExtensions.html#Chobitech_ValueRangeExtensions_GetValueGap_Chobitech_ValueRange_System_Int16__
+  commentId: M:Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Int16})
+  name.vb: GetValueGap(ValueRange(Of Short))
+  fullName: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange<short>)
+  fullName.vb: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange(Of Short))
+  nameWithType: ValueRangeExtensions.GetValueGap(ValueRange<short>)
+  nameWithType.vb: ValueRangeExtensions.GetValueGap(ValueRange(Of Short))
+- uid: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Int32})
+  name: GetValueGap(ValueRange<int>)
+  href: api/Chobitech.ValueRangeExtensions.html#Chobitech_ValueRangeExtensions_GetValueGap_Chobitech_ValueRange_System_Int32__
+  commentId: M:Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Int32})
+  name.vb: GetValueGap(ValueRange(Of Integer))
+  fullName: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange<int>)
+  fullName.vb: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange(Of Integer))
+  nameWithType: ValueRangeExtensions.GetValueGap(ValueRange<int>)
+  nameWithType.vb: ValueRangeExtensions.GetValueGap(ValueRange(Of Integer))
+- uid: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Int64})
+  name: GetValueGap(ValueRange<long>)
+  href: api/Chobitech.ValueRangeExtensions.html#Chobitech_ValueRangeExtensions_GetValueGap_Chobitech_ValueRange_System_Int64__
+  commentId: M:Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Int64})
+  name.vb: GetValueGap(ValueRange(Of Long))
+  fullName: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange<long>)
+  fullName.vb: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange(Of Long))
+  nameWithType: ValueRangeExtensions.GetValueGap(ValueRange<long>)
+  nameWithType.vb: ValueRangeExtensions.GetValueGap(ValueRange(Of Long))
+- uid: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Numerics.BigInteger})
+  name: GetValueGap(ValueRange<BigInteger>)
+  href: api/Chobitech.ValueRangeExtensions.html#Chobitech_ValueRangeExtensions_GetValueGap_Chobitech_ValueRange_System_Numerics_BigInteger__
+  commentId: M:Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Numerics.BigInteger})
+  name.vb: GetValueGap(ValueRange(Of BigInteger))
+  fullName: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange<System.Numerics.BigInteger>)
+  fullName.vb: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange(Of System.Numerics.BigInteger))
+  nameWithType: ValueRangeExtensions.GetValueGap(ValueRange<BigInteger>)
+  nameWithType.vb: ValueRangeExtensions.GetValueGap(ValueRange(Of BigInteger))
+- uid: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Single})
+  name: GetValueGap(ValueRange<float>)
+  href: api/Chobitech.ValueRangeExtensions.html#Chobitech_ValueRangeExtensions_GetValueGap_Chobitech_ValueRange_System_Single__
+  commentId: M:Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange{System.Single})
+  name.vb: GetValueGap(ValueRange(Of Single))
+  fullName: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange<float>)
+  fullName.vb: Chobitech.ValueRangeExtensions.GetValueGap(Chobitech.ValueRange(Of Single))
+  nameWithType: ValueRangeExtensions.GetValueGap(ValueRange<float>)
+  nameWithType.vb: ValueRangeExtensions.GetValueGap(ValueRange(Of Single))
+- uid: Chobitech.ValueRangeExtensions.GetValueGap*
+  name: GetValueGap
+  href: api/Chobitech.ValueRangeExtensions.html#Chobitech_ValueRangeExtensions_GetValueGap_
+  commentId: Overload:Chobitech.ValueRangeExtensions.GetValueGap
+  isSpec: "True"
+  fullName: Chobitech.ValueRangeExtensions.GetValueGap
+  nameWithType: ValueRangeExtensions.GetValueGap
+- uid: Chobitech.ValueRange`1
+  name: ValueRange<T>
+  href: api/Chobitech.ValueRange-1.html
+  commentId: T:Chobitech.ValueRange`1
+  name.vb: ValueRange(Of T)
+  fullName: Chobitech.ValueRange<T>
+  fullName.vb: Chobitech.ValueRange(Of T)
+  nameWithType: ValueRange<T>
+  nameWithType.vb: ValueRange(Of T)
+- uid: Chobitech.ValueRange`1.#ctor(`0,`0)
+  name: ValueRange(T, T)
+  href: api/Chobitech.ValueRange-1.html#Chobitech_ValueRange_1__ctor__0__0_
+  commentId: M:Chobitech.ValueRange`1.#ctor(`0,`0)
+  name.vb: New(T, T)
+  fullName: Chobitech.ValueRange<T>.ValueRange(T, T)
+  fullName.vb: Chobitech.ValueRange(Of T).New(T, T)
+  nameWithType: ValueRange<T>.ValueRange(T, T)
+  nameWithType.vb: ValueRange(Of T).New(T, T)
+- uid: Chobitech.ValueRange`1.#ctor*
+  name: ValueRange
+  href: api/Chobitech.ValueRange-1.html#Chobitech_ValueRange_1__ctor_
+  commentId: Overload:Chobitech.ValueRange`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Chobitech.ValueRange<T>.ValueRange
+  fullName.vb: Chobitech.ValueRange(Of T).New
+  nameWithType: ValueRange<T>.ValueRange
+  nameWithType.vb: ValueRange(Of T).New
+- uid: Chobitech.ValueRange`1.CheckInRange(`0)
+  name: CheckInRange(T)
+  href: api/Chobitech.ValueRange-1.html#Chobitech_ValueRange_1_CheckInRange__0_
+  commentId: M:Chobitech.ValueRange`1.CheckInRange(`0)
+  fullName: Chobitech.ValueRange<T>.CheckInRange(T)
+  fullName.vb: Chobitech.ValueRange(Of T).CheckInRange(T)
+  nameWithType: ValueRange<T>.CheckInRange(T)
+  nameWithType.vb: ValueRange(Of T).CheckInRange(T)
+- uid: Chobitech.ValueRange`1.CheckInRange*
+  name: CheckInRange
+  href: api/Chobitech.ValueRange-1.html#Chobitech_ValueRange_1_CheckInRange_
+  commentId: Overload:Chobitech.ValueRange`1.CheckInRange
+  isSpec: "True"
+  fullName: Chobitech.ValueRange<T>.CheckInRange
+  fullName.vb: Chobitech.ValueRange(Of T).CheckInRange
+  nameWithType: ValueRange<T>.CheckInRange
+  nameWithType.vb: ValueRange(Of T).CheckInRange
+- uid: Chobitech.ValueRange`1.IsInRange(`0,System.Boolean,System.Boolean)
+  name: IsInRange(T, bool, bool)
+  href: api/Chobitech.ValueRange-1.html#Chobitech_ValueRange_1_IsInRange__0_System_Boolean_System_Boolean_
+  commentId: M:Chobitech.ValueRange`1.IsInRange(`0,System.Boolean,System.Boolean)
+  name.vb: IsInRange(T, Boolean, Boolean)
+  fullName: Chobitech.ValueRange<T>.IsInRange(T, bool, bool)
+  fullName.vb: Chobitech.ValueRange(Of T).IsInRange(T, Boolean, Boolean)
+  nameWithType: ValueRange<T>.IsInRange(T, bool, bool)
+  nameWithType.vb: ValueRange(Of T).IsInRange(T, Boolean, Boolean)
+- uid: Chobitech.ValueRange`1.IsInRange*
+  name: IsInRange
+  href: api/Chobitech.ValueRange-1.html#Chobitech_ValueRange_1_IsInRange_
+  commentId: Overload:Chobitech.ValueRange`1.IsInRange
+  isSpec: "True"
+  fullName: Chobitech.ValueRange<T>.IsInRange
+  fullName.vb: Chobitech.ValueRange(Of T).IsInRange
+  nameWithType: ValueRange<T>.IsInRange
+  nameWithType.vb: ValueRange(Of T).IsInRange
+- uid: Chobitech.ValueRange`1.RangeCompareResult
+  name: ValueRange<T>.RangeCompareResult
+  href: api/Chobitech.ValueRange-1.RangeCompareResult.html
+  commentId: T:Chobitech.ValueRange`1.RangeCompareResult
+  name.vb: ValueRange(Of T).RangeCompareResult
+  fullName: Chobitech.ValueRange<T>.RangeCompareResult
+  fullName.vb: Chobitech.ValueRange(Of T).RangeCompareResult
+  nameWithType: ValueRange<T>.RangeCompareResult
+  nameWithType.vb: ValueRange(Of T).RangeCompareResult
+- uid: Chobitech.ValueRange`1.RangeCompareResult.AboveRange
+  name: AboveRange
+  href: api/Chobitech.ValueRange-1.RangeCompareResult.html#Chobitech_ValueRange_1_RangeCompareResult_AboveRange
+  commentId: F:Chobitech.ValueRange`1.RangeCompareResult.AboveRange
+  fullName: Chobitech.ValueRange<T>.RangeCompareResult.AboveRange
+  fullName.vb: Chobitech.ValueRange(Of T).RangeCompareResult.AboveRange
+  nameWithType: ValueRange<T>.RangeCompareResult.AboveRange
+  nameWithType.vb: ValueRange(Of T).RangeCompareResult.AboveRange
+- uid: Chobitech.ValueRange`1.RangeCompareResult.AtMax
+  name: AtMax
+  href: api/Chobitech.ValueRange-1.RangeCompareResult.html#Chobitech_ValueRange_1_RangeCompareResult_AtMax
+  commentId: F:Chobitech.ValueRange`1.RangeCompareResult.AtMax
+  fullName: Chobitech.ValueRange<T>.RangeCompareResult.AtMax
+  fullName.vb: Chobitech.ValueRange(Of T).RangeCompareResult.AtMax
+  nameWithType: ValueRange<T>.RangeCompareResult.AtMax
+  nameWithType.vb: ValueRange(Of T).RangeCompareResult.AtMax
+- uid: Chobitech.ValueRange`1.RangeCompareResult.AtMin
+  name: AtMin
+  href: api/Chobitech.ValueRange-1.RangeCompareResult.html#Chobitech_ValueRange_1_RangeCompareResult_AtMin
+  commentId: F:Chobitech.ValueRange`1.RangeCompareResult.AtMin
+  fullName: Chobitech.ValueRange<T>.RangeCompareResult.AtMin
+  fullName.vb: Chobitech.ValueRange(Of T).RangeCompareResult.AtMin
+  nameWithType: ValueRange<T>.RangeCompareResult.AtMin
+  nameWithType.vb: ValueRange(Of T).RangeCompareResult.AtMin
+- uid: Chobitech.ValueRange`1.RangeCompareResult.BelowRange
+  name: BelowRange
+  href: api/Chobitech.ValueRange-1.RangeCompareResult.html#Chobitech_ValueRange_1_RangeCompareResult_BelowRange
+  commentId: F:Chobitech.ValueRange`1.RangeCompareResult.BelowRange
+  fullName: Chobitech.ValueRange<T>.RangeCompareResult.BelowRange
+  fullName.vb: Chobitech.ValueRange(Of T).RangeCompareResult.BelowRange
+  nameWithType: ValueRange<T>.RangeCompareResult.BelowRange
+  nameWithType.vb: ValueRange(Of T).RangeCompareResult.BelowRange
+- uid: Chobitech.ValueRange`1.RangeCompareResult.InRange
+  name: InRange
+  href: api/Chobitech.ValueRange-1.RangeCompareResult.html#Chobitech_ValueRange_1_RangeCompareResult_InRange
+  commentId: F:Chobitech.ValueRange`1.RangeCompareResult.InRange
+  fullName: Chobitech.ValueRange<T>.RangeCompareResult.InRange
+  fullName.vb: Chobitech.ValueRange(Of T).RangeCompareResult.InRange
+  nameWithType: ValueRange<T>.RangeCompareResult.InRange
+  nameWithType.vb: ValueRange(Of T).RangeCompareResult.InRange
+- uid: Chobitech.ValueRange`1.ToString
+  name: ToString()
+  href: api/Chobitech.ValueRange-1.html#Chobitech_ValueRange_1_ToString
+  commentId: M:Chobitech.ValueRange`1.ToString
+  fullName: Chobitech.ValueRange<T>.ToString()
+  fullName.vb: Chobitech.ValueRange(Of T).ToString()
+  nameWithType: ValueRange<T>.ToString()
+  nameWithType.vb: ValueRange(Of T).ToString()
+- uid: Chobitech.ValueRange`1.ToString*
+  name: ToString
+  href: api/Chobitech.ValueRange-1.html#Chobitech_ValueRange_1_ToString_
+  commentId: Overload:Chobitech.ValueRange`1.ToString
+  isSpec: "True"
+  fullName: Chobitech.ValueRange<T>.ToString
+  fullName.vb: Chobitech.ValueRange(Of T).ToString
+  nameWithType: ValueRange<T>.ToString
+  nameWithType.vb: ValueRange(Of T).ToString
+- uid: Chobitech.ValueRange`1.maxValue
+  name: maxValue
+  href: api/Chobitech.ValueRange-1.html#Chobitech_ValueRange_1_maxValue
+  commentId: F:Chobitech.ValueRange`1.maxValue
+  fullName: Chobitech.ValueRange<T>.maxValue
+  fullName.vb: Chobitech.ValueRange(Of T).maxValue
+  nameWithType: ValueRange<T>.maxValue
+  nameWithType.vb: ValueRange(Of T).maxValue
+- uid: Chobitech.ValueRange`1.minValue
+  name: minValue
+  href: api/Chobitech.ValueRange-1.html#Chobitech_ValueRange_1_minValue
+  commentId: F:Chobitech.ValueRange`1.minValue
+  fullName: Chobitech.ValueRange<T>.minValue
+  fullName.vb: Chobitech.ValueRange(Of T).minValue
+  nameWithType: ValueRange<T>.minValue
+  nameWithType.vb: ValueRange(Of T).minValue
